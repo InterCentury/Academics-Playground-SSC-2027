@@ -3,14 +3,15 @@
 
 ## ⚡ Quick Access Dashboard
 
-| Subject | Link | Subject | Link |
-|--------|------|--------|------|
-| **Physics** | 🚀 [Jump to Notes](SSC-2027/Physics) | **Chemistry** | 🧪 [Jump to Notes](SSC-2027/Chemistry) |
-| **Biology** | 🧬 [Jump to Notes](SSC-2027/Biology) | **G. Math** | 🔢 [Jump to Notes](SSC-2027/G-Math) |
-| **H. Math** | 📐 [Jump to Notes](SSC-2027/H-Math) | **ICT** | 💻 [Jump to Notes](SSC-2027/ICT) |
-| **Bangla 1** | 📘 [Jump to Notes](SSC-2027/Bangla-1) | **Bangla 2** | ✍️ [Jump to Notes](SSC-2027/Bangla-2) |
-| **English 1** | 🇬🇧 [Jump to Notes](SSC-2027/English-1) | **English 2** | 📝 [Jump to Notes](SSC-2027/English-2) |
-| **BGS** | 🗺️ [Jump to Notes](SSC-2027/BGS) | **Religion** | 📿 [Jump to Notes](SSC-2027/Religion) |
+| Subject | Link | Subject | Link | Subject | Link |
+|--------|------|--------|------|--------|------|
+| **Physics** | 🚀 [Jump to Notes](SSC-2027/Physics) | **H. Math** | 📐 [Jump to Notes](SSC-2027/H-Math) | **English 1** | 🇬🇧 [Jump to Notes](SSC-2027/English-1) |
+| **Chemistry** | 🧪 [Jump to Notes](SSC-2027/Chemistry) | **Bangla 1** | 📘 [Jump to Notes](SSC-2027/Bangla-1) | **English 2** | 📝 [Jump to Notes](SSC-2027/English-2) |
+| **Biology** | 🧬 [Jump to Notes](SSC-2027/Biology) | **Bangla 2** | ✍️ [Jump to Notes](SSC-2027/Bangla-2) | **ICT** | 💻 [Jump to Notes](SSC-2027/ICT) |
+| **G. Math** | 🔢 [Jump to Notes](SSC-2027/G-Math) | **BGS** | 🗺️ [Jump to Notes](SSC-2027/BGS) | **Religion** | 📿 [Jump to Notes](SSC-2027/Religion) |
+
+
+
 
 
 This repository is where I store my **SSC (2027) study notes**.
