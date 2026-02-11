@@ -125,9 +125,11 @@ n2 = sin θ1 / sin θ2
 
 ---
 
-
-
-
-
-
-
+**Commit Message:**
+```
+📘 Add Snell's law and refraction direction rules
+- Include laws of refraction with plain text formulas
+- Explain light bending direction with comparison table
+- Clarify refractive index vs mass density misconception
+- Format for GitHub markdown compatibility
+```
