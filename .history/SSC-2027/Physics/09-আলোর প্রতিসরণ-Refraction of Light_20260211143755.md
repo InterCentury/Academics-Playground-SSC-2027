@@ -1,4 +1,4 @@
-**9.1 আলোর প্রতিসরণ (Refraction of Light) – নোটস**
+**9.আলোর প্রতিসরণ (Refraction of Light) – নোটস**
 
 ---
 
