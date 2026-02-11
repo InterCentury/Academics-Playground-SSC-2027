@@ -54,9 +54,10 @@
 
 ---
 
-
-
-
-
-
-
+**Commit Message:**  
+```
+📘 Fix markdown formatting for GitHub compatibility
+- Convert LaTeX formulas to plain text
+- Adjust table formatting for better rendering
+- Ensure Bengali text displays correctly in MD
+```
