@@ -124,9 +124,11 @@ n_2 = \frac{\sin \theta_1}{\sin \theta_2}
 
 ---
 
-
-
-
-
-
-
+**Commit Message:**
+```
+📘 Add Snell's law and refraction direction rules
+- Include laws of refraction with formulas
+- Explain light bending direction with table
+- Clarify refractive index vs mass density misconception
+- Add Bengali notes with clear examples
+```
