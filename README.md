@@ -32,6 +32,7 @@ Here, all notes are:
 
 This repository is simply my centralized, low-maintenance place for keeping all my AI-assisted study notes in one clean system.
 
+![Document image](https://raw.githubusercontent.com/InterCentury/Academics-Playground-SSC-2027/0f1a4d69d115405e733d6d8a3809e94c4d23de5c/Img/Document.jpg)
 
 ### ⚡File Structure (update: 23 Feb, 2026)
 
