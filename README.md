@@ -33,7 +33,7 @@ Here, all notes are:
 This repository is simply my centralized, low-maintenance place for keeping all my AI-assisted study notes in one clean system.
 
 
-### File Structure (update: 21 Feb, 2026)
+### ⚡File Structure (update: 21 Feb, 2026)
 
 ```
 h:/programming/git_and_github/academic-playground/Academics-Playground-SSC-2027/
