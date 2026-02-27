@@ -1,0 +1,7 @@
+------------------------- STORAGE SUMMARY --------------------------
+ SSD Disk (C:) [ (Used)  230.61 GiB / 237.32 GiB  (97%) - NTFS  Int ]
+ HDD Disk (D:) [ (Used)  318.79 GiB / 465.76 GiB  (68%) - NTFS  Int ]
+ USB Disk (G:) [ (Used)  107.20 GiB / 112.64 GiB  (95%) - NTFS  Ext ]
+ HDD Disk (H:) [ (Used)  841.43 GiB / 931.50 GiB  (90%) - NTFS  Int ]
+ SSD Disk (I:) [ (Used)   68.81 GiB / 110.79 GiB  (62%) - NTFS  Int ]
+ 
