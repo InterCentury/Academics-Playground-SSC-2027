@@ -1,4 +1,4 @@
-![Alt text](https://github.com/InterCentury/Academics-Playground-SSC-2027/blob/main/Img/white%20pop%201.jpg?raw=true)
+![Alt text](https://github.com/InterCentury/Academics-Playground-SSC-2027/blob/main/Img/Academics-Playground-SSC-2027.jpg?raw=true)
 
 
 ## ⚡ Quick Access Dashboard
