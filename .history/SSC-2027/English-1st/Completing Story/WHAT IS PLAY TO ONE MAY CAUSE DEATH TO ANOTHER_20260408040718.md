@@ -3,7 +3,7 @@
 There was a pond full of frogs. Some of them often put their heads out of the water and croaked loudly. One day, some boys were playing by the side of the pond. When they heard the frogs croaking, they began to throw stones at them. All the frogs at once went down into the water. But the boys remained standing there with stones in their hands. The new game was a great fun to them. They went on pelting the frogs with stones when they raised their head above the water. Thus, many frogs were hit hard and a few were killed. At last, an old frog raised its head and said, "Oh boys please! Please! Stop the cruel fun. Don't throw stones at us." "It is a play. We are enjoying it," said the boys. "What is play to you causes death to us. This is why, you should stop it," answered the frog. Being ashamed, they left the cruel game and went away.
 
 
----
+
 
 
 
