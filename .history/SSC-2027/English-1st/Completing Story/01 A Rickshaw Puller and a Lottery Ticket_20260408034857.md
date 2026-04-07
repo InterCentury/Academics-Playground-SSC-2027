@@ -5,7 +5,7 @@ Rahmat Mia is a poor rickshaw puller in Dhaka. He pulls his rickshaw in differen
 He purchased a daily newspaper to see whether he won the lottery. To his utter surprise, he could easily find out his ticket number which got the first prize amounting to 20 lakh taka. He was beside himself with joy and was in a fix what to do. Too many plans and programmes flashed in his mind including buying a ready-made house in Dhaka and marrying a beautiful lady. But with the lottery money, he became burdened with so many problems and anxieties. He got a lot of money. But alas! he lost his mental peace and tranquillity.
 
 
-### (Simplified) **A Rickshaw Puller and a Lottery Ticket**
+### (simplified) **A Rickshaw Puller and a Lottery Ticket**
 
 Rahmat Mia is a poor man who pulls a rickshaw in Dhaka. One day, he decided to buy a lottery ticket. He waited very excitedly for the results. When the day finally came, he checked the newspaper and saw that he had won the first prize of 20 lakh taka!
 
