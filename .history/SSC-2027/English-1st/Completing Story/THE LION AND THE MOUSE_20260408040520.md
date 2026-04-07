@@ -4,7 +4,7 @@ Once a lion was sleeping in a forest. Suddenly, a mouse came there. It did not n
 
 One night, the mouse heard the roar of a lion. On reaching the spot, he saw the lion trapped in a hunter's net. The mouse gave his identity and requested him not to make any sound. Then, the mouse began to cut the rope with its sharp teeth. The lion was freed before dawn. The lion expressed his gratitude to the mouse. The mouse said in reply, "Even the smallest creatures can be of great help to giants."
 
----
+
 
 ### (Simplified) **The Lion and the Mouse**
 
