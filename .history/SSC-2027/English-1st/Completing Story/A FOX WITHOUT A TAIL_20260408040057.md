@@ -23,8 +23,11 @@ Some foxes thought he was right. But then, an old wise fox stood up. He said, "Y
 
 ---
 
+### **Commit Message**
+```text
+docs: add "A Fox Without a Tail" story and simplified version
 
-
-
-
-
+- Transcribed the classic SSC completing story based on Nobodut/SSC curriculum.
+- Included the formal version and a simplified "easy English" version.
+- Added a "Moral of the story" section and formatted for readability.
+```
