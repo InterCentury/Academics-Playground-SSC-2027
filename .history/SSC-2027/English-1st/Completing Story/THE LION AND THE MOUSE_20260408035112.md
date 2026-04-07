@@ -1,0 +1,5 @@
+### **The Lion and the Mouse**
+
+Once a lion was sleeping in a forest. Suddenly, a mouse came there. It did not notice the sleeping lion. It was running about and playing happily. By chance, it ran over the face of the lion. It awoke the lion. At this, the lion grew very angry with the silly mouse. The mouse became very much frightened. He said to the lion, "O king of the jungle, I am a very tiny creature. I made a great mistake, please forgive me this time. I may be of some help to you any time." Hearing this, the lion smiled and let the mouse go. 
+
+One night, the mouse heard the roar of a lion. On reaching the spot, he saw the lion trapped in a hunter's net. The mouse gave his identity and requested him not to make any sound. Then, the mouse began to cut the rope with its sharp teeth. The lion was freed before dawn. The lion expressed his gratitude to the mouse. The mouse said in reply, "Even the smallest creatures can be of great help to giants."
