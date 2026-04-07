@@ -38,9 +38,12 @@ Some foxes thought he was right. But then, an old wise fox stood up. He said, "Y
 
 ---
 
+### **Commit Message**
+```text
+docs: add English, Simplified, and Bangla versions of "A Fox Without a Tail"
 
-
-
-
-
-
+- Included the formal story version for SSC preparation.
+- Added a simplified version for better comprehension.
+- Provided a full Bengali translation (লেজ কাটা শেয়াল).
+- Included morals for all versions and formatted for study use.
+```
