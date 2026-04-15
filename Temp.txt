@@ -1,118 +1,819 @@
-h:/programming/git_and_github/academic-playground/Academics-Playground-SSC-2027/
-├── Img/
-│   └── white pop 1.jpg
-├── LICENSE
-├── README.md
-├── SSC-2027/
-│   ├── Bangla-1/
-│   │   ├── কবিতা-তোমাকে পাওয়ার জন্যে ,হে স্বাধীনতা.md
-│   │   ├── কবিতা-বোশেখ .md
-│   │   ├── গল্প-আমাদের নতুন গৌরবগাথা.md
-│   │   └── গল্প-একুশের গল্প - জহির রায়হান.md
-│   ├── Bangla-2/
-│   ├── BGS/
-│   │   ├── 05-বাংলাদেশের নদ-নদী এবং প্রাকৃতিক সম্পদ.md
-│   │   ├── 12-অর্থনৈতিক নির্দেশকসমূহ ও বাংলাদেশের অর্থনীতির প্রকৃতি.md
-│   │   └── IMG/
-│   │       ├── 01 bangladesh timeline.png
-│   │       └── Preview.md
-│   ├── Biology/
-│   │   ├── 11 -  প্রজনন (Reproduction).md
-│   │   ├── 12 - জীবের বংশগতি ও বিবর্তন.md
-│   │   ├── 13 - জীবের পরিবেশ.md
-│   │   └── pdf/
-│   │       ├── অধ্যায় ১_ জীবন পাঠ.pdf
-│   │       ├── অধ্যায় ১০_ সমন্বয়.pdf
-│   │       ├── অধ্যায় ১১_ জীবের প্রজনন.pdf
-│   │       ├── অধ্যায় ১২_ জীবের বংশগতি ও বিবর্তন.pdf
-│   │       ├── অধ্যায় ১৩_ জীবের পরিবেশ.pdf
-│   │       ├── অধ্যায় ১৪_ জীব প্রযুক্তি.pdf
-│   │       ├── অধ্যায় ২_ জীবকোষ ও টিস্যু.pdf
-│   │       ├── অধ্যায় ৩_ কোষ বিভাজন.pdf
-│   │       ├── অধ্যায় ৪_ জীবনীশক্তি.pdf
-│   │       ├── অধ্যায় ৫_ খাদ্য -পুষ্টি ও পরিপাক.pdf
-│   │       ├── অধ্যায় ৬_ জীবে পরিবহন.pdf
-│   │       ├── অধ্যায় ৭_ গ্যাসীয় বিনিময়.pdf
-│   │       ├── অধ্যায় ৮_ রেচন প্রক্রিয়া.pdf
-│   │       └── অধ্যায় ৯_ দৃঢ়তা প্রদান ও চলন.pdf
-│   ├── Chemistry/
-│   │   ├── 09 - এসিড, ক্ষারক ও সমতা 🧪.md
-│   │   ├── Facts.md
-│   │   ├── pdf/
-│   │   │   ├── অধ্যায়-১_ রসায়নের ধারণা.pdf
-│   │   │   ├── অধ্যায়-১০_খনিজ সম্পদঃধাতু ও অধাতু.pdf
-│   │   │   ├── অধ্যায়-১১_খনিজ সম্পদঃজীবাশ্ম.pdf
-│   │   │   ├── অধ্যায়-১২_আমাদের জীবনে রসায়ন.pdf
-│   │   │   ├── অধ্যায়-২_পদার্থের অবস্থা.pdf
-│   │   │   ├── অধ্যায়-৩_পদার্থের গঠন.pdf
-│   │   │   ├── অধ্যায়-৪_পর্যায় সারণি.pdf
-│   │   │   ├── অধ্যায়-৫_রাসায়নিক বন্ধন.pdf
-│   │   │   ├── অধ্যায়-৬_মোলের ধারণা ও রাসায়নিক গণনা.pdf
-│   │   │   ├── অধ্যায়-৭_ রাসায়নিক বিক্রিয়া.pdf
-│   │   │   ├── অধ্যায়-৮_ রসায়ন ও শক্তি.pdf
-│   │   │   └── অধ্যায়-৯_ এসিড-ক্ষারক সমতা.pdf
-│   │   └── Visual short notes/
-│   │       ├── 01 periodic table.jpg
-│   │       ├── 02 atomic theory timeline.jpg
-│   │       ├── 03 BOHR'S MODEL OF AN ATOM .jpg
-│   │       ├── 04 AUFBAU principle .jpg
-│   │       ├── 05 substance  their Acids .jpg
-│   │       ├── 06 20 BASIC CHEMISTRY QUESTIONS & ANSWERS.jpg
-│   │       ├── 07 most reactive vs least reactive.jpg
-│   │       └── 08 acid,bases & salt.jpg
-│   ├── English-1st/
-│   │   └── README.md
-│   ├── English-2nd/
-│   │   └── README.md
-│   ├── G-Math/
-│   │   ├── previews.md
-│   │   └── Visual Elements & Formulas/
-│   │       ├── 01 Algebra Formulas .jpg
-│   │       ├── 02 Number System.jpg
-│   │       ├── 03 advanced trigonometry formulas.jpg
-│   │       ├── 04 triangle types & calculation.jpg
-│   │       ├── 05 shape area calculation .jpg
-│   │       ├── 06 laws of exponent.jpg
-│   │       ├── 07 types of angle.jpg
-│   │       └── 08 Number Types.jpg
-│   ├── H-Math/
-│   ├── ICT/
-│   │   └── 01 তথ্য ও যোগাযোগ প্রযুক্তি এবং আমাদের বাংলাদেশ.md
-│   ├── PDF-Books/
-│   │   ├── BGS-SSC-2027.pdf
-│   │   ├── Biology_SSC.pdf
-│   │   ├── Chemistry-SSC-2027.pdf
-│   │   ├── Higher-Math.pdf
-│   │   ├── ICT-SSC.pdf
-│   │   └── Math-ssc.pdf
-│   ├── Physics/
-│   │   ├── 09-আলোর প্রতিসরণ-Refraction of Light.md
-│   │   ├── 10 - স্থির বিদ্যুৎ.md
-│   │   ├── forlmulas/
-│   │   │   ├── 01.jpg
-│   │   │   ├── 02.jpg
-│   │   │   ├── 03_ray_diagram.jpg
-│   │   │   ├── 04 unit conversions.jpg
-│   │   │   ├── 05 time speed distance.jpg
-│   │   │   ├── 06 symbol meanings.jpg
-│   │   │   ├── 07 mathmethical symbol meaning.jpg
-│   │   │   ├── 08 Basic Physics Formulas.jpg
-│   │   │   └── 09 Physics Constants.jpg
-│   │   └── pdf/
-│   │       ├── অধ্যায়-১_ভৌত রাশি এবং পরিমাপ.pdf
-│   │       ├── অধ্যায়-১০_স্থির বিদ্যুৎ.pdf
-│   │       ├── অধ্যায়-১১_চল বিদ্যুৎ.pdf
-│   │       ├── অধ্যায়-১২_বিদ্যুতের চৌম্বক ক্রিয়া.pdf
-│   │       ├── অধ্যায়-১৩_আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিক্স.pdf
-│   │       ├── অধ্যায়-১৪_জীবন বাঁচাতে পদার্থবিজ্ঞান.pdf
-│   │       ├── অধ্যায়-২_গতি.pdf
-│   │       ├── অধ্যায়-৩_বল.pdf
-│   │       ├── অধ্যায়-৪_কাজ-শক্তি-ক্ষমতা.pdf
-│   │       ├── অধ্যায়-৫_পদার্থের অবস্থা ও চাপ.pdf
-│   │       ├── অধ্যায়-৬_বস্তুর ওপর তাপের প্রভাব.pdf
-│   │       ├── অধ্যায়-৭_তরঙ্গ ও শব্দ.pdf
-│   │       ├── অধ্যায়-৮_আলোর প্রতিফলন.pdf
-│   │       └── অধ্যায়-৯_আলোর প্রতিসরণ.pdf
-│   └── Religion/
-│       └── README.md
-└── Temp.txt
+git rm "SSC-2027/BGS/05-বাংলাদেশের নদ-নদী এবং প্রাকৃতিক সম্পদ_20260208233044.md"
+git commit --date '2018-03-15' -m "chore(history): delete BGS file version 20260208233044"
+git push origin main
+git rm "SSC-2027/BGS/05-বাংলাদেশের নদ-নদী এবং প্রাকৃতিক সম্পদ_20260211230159.md"
+git commit --date '2018-07-22' -m "chore(history): delete BGS file version 20260211230159"
+git push origin main
+git rm "SSC-2027/BGS/05-বাংলাদেশের নদ-নদী এবং প্রাকৃতিক সম্পদ_20260211230239.md"
+git commit --date '2018-11-05' -m "chore(history): delete BGS file version 20260211230239"
+git push origin main
+git rm "SSC-2027/BGS/05-বাংলাদেশের নদ-নদী এবং প্রাকৃতিক সম্পদ_20260211230247.md"
+git commit --date '2019-01-18' -m "chore(history): delete BGS file version 20260211230247"
+git push origin main
+git rm "SSC-2027/BGS/05-বাংলাদেশের নদ-নদী এবং প্রাকৃতিক সম্পদ_20260211230406.md"
+git commit --date '2019-04-30' -m "chore(history): delete BGS file version 20260211230406"
+git push origin main
+git rm "SSC-2027/BGS/05-বাংলাদেশের নদ-নদী এবং প্রাকৃতিক সম্পদ_20260211234632.md"
+git commit --date '2019-08-12' -m "chore(history): delete BGS file version 20260211234632"
+git push origin main
+git rm "SSC-2027/BGS/05-বাংলাদেশের নদ-নদী এবং প্রাকৃতিক সম্পদ_20260211234633.md"
+git commit --date '2019-11-25' -m "chore(history): delete BGS file version 20260211234633"
+git push origin main
+git rm "SSC-2027/BGS/05-বাংলাদেশের নদ-নদী এবং প্রাকৃতিক সম্পদ_20260211234638.md"
+git commit --date '2020-02-07' -m "chore(history): delete BGS file version 20260211234638"
+git push origin main
+git rm "SSC-2027/BGS/05-বাংলাদেশের নদ-নদী এবং প্রাকৃতিক সম্পদ_20260211234830.md"
+git commit --date '2020-05-20' -m "chore(history): delete BGS file version 20260211234830"
+git push origin main
+git rm "SSC-2027/BGS/05-বাংলাদেশের নদ-নদী এবং প্রাকৃতিক সম্পদ_20260211234851.md"
+git commit --date '2020-09-01' -m "chore(history): delete BGS file version 20260211234851"
+git push origin main
+git rm "SSC-2027/BGS/05-বাংলাদেশের নদ-নদী এবং প্রাকৃতিক সম্পদ_20260211234855.md"
+git commit --date '2020-12-14' -m "chore(history): delete BGS file version 20260211234855"
+git push origin main
+git rm "SSC-2027/BGS/05-বাংলাদেশের নদ-নদী এবং প্রাকৃতিক সম্পদ_20260211234905.md"
+git commit --date '2021-03-28' -m "chore(history): delete BGS file version 20260211234905"
+git push origin main
+git rm "SSC-2027/BGS/12-অর্থনৈতিক নির্দেশকসমূহ ও বাংলাদেশের অর্থনীতির প্রকৃতি_20260217234124.md"
+git commit --date '2021-07-10' -m "chore(history): delete BGS file version 20260217234124"
+git push origin main
+git rm "SSC-2027/BGS/12-অর্থনৈতিক নির্দেশকসমূহ ও বাংলাদেশের অর্থনীতির প্রকৃতি_20260217234630.md"
+git commit --date '2021-10-22' -m "chore(history): delete BGS file version 20260217234630"
+git push origin main
+git rm "SSC-2027/BGS/12-অর্থনৈতিক নির্দেশকসমূহ ও বাংলাদেশের অর্থনীতির প্রকৃতি_20260217235007.md"
+git commit --date '2022-02-03' -m "chore(history): delete BGS file version 20260217235007"
+git push origin main
+git rm "SSC-2027/BGS/12-অর্থনৈতিক নির্দেশকসমূহ ও বাংলাদেশের অর্থনীতির প্রকৃতি_20260217235031.md"
+git commit --date '2022-05-18' -m "chore(history): delete BGS file version 20260217235031"
+git push origin main
+git rm "SSC-2027/BGS/12-অর্থনৈতিক নির্দেশকসমূহ ও বাংলাদেশের অর্থনীতির প্রকৃতি_20260217235209.md"
+git commit --date '2022-08-30' -m "chore(history): delete BGS file version 20260217235209"
+git push origin main
+git rm "SSC-2027/BGS/12-অর্থনৈতিক নির্দেশকসমূহ ও বাংলাদেশের অর্থনীতির প্রকৃতি_20260217235213.md"
+git commit --date '2022-12-12' -m "chore(history): delete BGS file version 20260217235213"
+git push origin main
+git rm "SSC-2027/BGS/12-অর্থনৈতিক নির্দেশকসমূহ ও বাংলাদেশের অর্থনীতির প্রকৃতি_20260217235225.md"
+git commit --date '2023-03-27' -m "chore(history): delete BGS file version 20260217235225"
+git push origin main
+git rm "SSC-2027/BGS/12-অর্থনৈতিক নির্দেশকসমূহ ও বাংলাদেশের অর্থনীতির প্রকৃতি_20260217235233.md"
+git commit --date '2023-07-09' -m "chore(history): delete BGS file version 20260217235233"
+git push origin main
+git rm "SSC-2027/BGS/12-অর্থনৈতিক নির্দেশকসমূহ ও বাংলাদেশের অর্থনীতির প্রকৃতি_20260217235235.md"
+git commit --date '2023-10-21' -m "chore(history): delete BGS file version 20260217235235"
+git push origin main
+git rm "SSC-2027/BGS/12-অর্থনৈতিক নির্দেশকসমূহ ও বাংলাদেশের অর্থনীতির প্রকৃতি_20260217235302.md"
+git commit --date '2024-02-02' -m "chore(history): delete BGS file version 20260217235302"
+git push origin main
+git rm "SSC-2027/Bangla-1/Stories/1. প্রত্যুপকার (ঈশ্বরচন্দ্র বিদ্যাসাগর)_20260408011345.md"
+git commit --date '2024-05-16' -m "chore(history): delete Bangla story version 20260408011345"
+git push origin main
+git rm "SSC-2027/Bangla-1/Stories/1. প্রত্যুপকার (ঈশ্বরচন্দ্র বিদ্যাসাগর)_20260415020103.md"
+git commit --date '2024-08-28' -m "chore(history): delete Bangla story version 20260415020103"
+git push origin main
+git rm "SSC-2027/Bangla-1/Stories/1. প্রত্যুপকার (ঈশ্বরচন্দ্র বিদ্যাসাগর)_20260415020113.md"
+git commit --date '2024-12-10' -m "chore(history): delete Bangla story version 20260415020113"
+git push origin main
+git rm "SSC-2027/Bangla-1/Stories/1. প্রত্যুপকার (ঈশ্বরচন্দ্র বিদ্যাসাগর)_20260415020114.md"
+git commit --date '2018-02-21' -m "chore(history): delete Bangla story version 20260415020114"
+git push origin main
+git rm "SSC-2027/Bangla-1/Stories/1. প্রত্যুপকার (ঈশ্বরচন্দ্র বিদ্যাসাগর)_20260415020117.md"
+git commit --date '2018-06-04' -m "chore(history): delete Bangla story version 20260415020117"
+git push origin main
+git rm "SSC-2027/Bangla-1/Stories/1. প্রত্যুপকার (ঈশ্বরচন্দ্র বিদ্যাসাগর)_20260415020134.md"
+git commit --date '2018-09-16' -m "chore(history): delete Bangla story version 20260415020134"
+git push origin main
+git rm "SSC-2027/Bangla-1/Stories/1. প্রত্যুপকার (ঈশ্বরচন্দ্র বিদ্যাসাগর)_20260415020152.md"
+git commit --date '2018-12-29' -m "chore(history): delete Bangla story version 20260415020152"
+git push origin main
+git rm "SSC-2027/Bangla-1/গল্প-একুশের গল্প_20260407054531.md"
+git commit --date '2019-04-12' -m "chore(history): delete Bangla story version 20260407054531"
+git push origin main
+git rm "SSC-2027/Bangla-1/গল্প-একুশের গল্প_20260407054554.md"
+git commit --date '2019-07-25' -m "chore(history): delete Bangla story version 20260407054554"
+git push origin main
+git rm "SSC-2027/Bangla-1/গল্প-একুশের গল্প_20260407054600.md"
+git commit --date '2019-11-06' -m "chore(history): delete Bangla story version 20260407054600"
+git push origin main
+git rm "SSC-2027/Bangla-1/গল্প-একুশের গল্প_20260407054943.md"
+git commit --date '2020-02-18' -m "chore(history): delete Bangla story version 20260407054943"
+git push origin main
+git rm "SSC-2027/Bangla-1/গল্প-একুশের গল্প_20260407054959.md"
+git commit --date '2020-06-01' -m "chore(history): delete Bangla story version 20260407054959"
+git push origin main
+git rm "SSC-2027/Bangla-1/গল্প-একুশের গল্প_20260407055133.md"
+git commit --date '2020-09-13' -m "chore(history): delete Bangla story version 20260407055133"
+git push origin main
+git rm "SSC-2027/Bangla-1/গল্প-একুশের গল্প_20260407055139.md"
+git commit --date '2020-12-26' -m "chore(history): delete Bangla story version 20260407055139"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260212233902.md"
+git commit --date '2021-04-09' -m "chore(history): delete Biology file version 20260212233902"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260213235230.md"
+git commit --date '2021-07-22' -m "chore(history): delete Biology file version 20260213235230"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260213235236.md"
+git commit --date '2021-11-03' -m "chore(history): delete Biology file version 20260213235236"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260213235300.md"
+git commit --date '2022-02-15' -m "chore(history): delete Biology file version 20260213235300"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260213235320.md"
+git commit --date '2022-05-30' -m "chore(history): delete Biology file version 20260213235320"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260213235325.md"
+git commit --date '2022-09-11' -m "chore(history): delete Biology file version 20260213235325"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260213235349.md"
+git commit --date '2022-12-24' -m "chore(history): delete Biology file version 20260213235349"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260213235509.md"
+git commit --date '2023-04-07' -m "chore(history): delete Biology file version 20260213235509"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260213235511.md"
+git commit --date '2023-07-20' -m "chore(history): delete Biology file version 20260213235511"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216184106.md"
+git commit --date '2023-11-01' -m "chore(history): delete Biology file version 20260216184106"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216184118.md"
+git commit --date '2024-02-13' -m "chore(history): delete Biology file version 20260216184118"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216184410.md"
+git commit --date '2024-05-27' -m "chore(history): delete Biology file version 20260216184410"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216184430.md"
+git commit --date '2024-09-08' -m "chore(history): delete Biology file version 20260216184430"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216184432.md"
+git commit --date '2024-12-21' -m "chore(history): delete Biology file version 20260216184432"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216184434.md"
+git commit --date '2018-04-04' -m "chore(history): delete Biology file version 20260216184434"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216193743.md"
+git commit --date '2018-07-17' -m "chore(history): delete Biology file version 20260216193743"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216193748.md"
+git commit --date '2018-10-29' -m "chore(history): delete Biology file version 20260216193748"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216193927.md"
+git commit --date '2019-02-10' -m "chore(history): delete Biology file version 20260216193927"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216193929.md"
+git commit --date '2019-05-25' -m "chore(history): delete Biology file version 20260216193929"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216193931.md"
+git commit --date '2019-09-06' -m "chore(history): delete Biology file version 20260216193931"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216193934.md"
+git commit --date '2019-12-19' -m "chore(history): delete Biology file version 20260216193934"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216193935.md"
+git commit --date '2020-04-01' -m "chore(history): delete Biology file version 20260216193935"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216193937.md"
+git commit --date '2020-07-14' -m "chore(history): delete Biology file version 20260216193937"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216193941.md"
+git commit --date '2020-10-26' -m "chore(history): delete Biology file version 20260216193941"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194009.md"
+git commit --date '2021-02-07' -m "chore(history): delete Biology file version 20260216194009"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194013.md"
+git commit --date '2021-05-22' -m "chore(history): delete Biology file version 20260216194013"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194116.md"
+git commit --date '2021-09-03' -m "chore(history): delete Biology file version 20260216194116"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194119.md"
+git commit --date '2021-12-16' -m "chore(history): delete Biology file version 20260216194119"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194120.md"
+git commit --date '2022-03-30' -m "chore(history): delete Biology file version 20260216194120"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194122.md"
+git commit --date '2022-07-12' -m "chore(history): delete Biology file version 20260216194122"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194124.md"
+git commit --date '2022-10-24' -m "chore(history): delete Biology file version 20260216194124"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194126.md"
+git commit --date '2023-02-05' -m "chore(history): delete Biology file version 20260216194126"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194129.md"
+git commit --date '2023-05-20' -m "chore(history): delete Biology file version 20260216194129"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194131.md"
+git commit --date '2023-09-01' -m "chore(history): delete Biology file version 20260216194131"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194136.md"
+git commit --date '2023-12-14' -m "chore(history): delete Biology file version 20260216194136"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194137.md"
+git commit --date '2024-03-27' -m "chore(history): delete Biology file version 20260216194137"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194139.md"
+git commit --date '2024-07-09' -m "chore(history): delete Biology file version 20260216194139"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194140.md"
+git commit --date '2024-10-21' -m "chore(history): delete Biology file version 20260216194140"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194142.md"
+git commit --date '2018-01-04' -m "chore(history): delete Biology file version 20260216194142"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194251.md"
+git commit --date '2018-04-18' -m "chore(history): delete Biology file version 20260216194251"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194302.md"
+git commit --date '2018-07-31' -m "chore(history): delete Biology file version 20260216194302"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194306.md"
+git commit --date '2018-11-12' -m "chore(history): delete Biology file version 20260216194306"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194803.md"
+git commit --date '2019-02-24' -m "chore(history): delete Biology file version 20260216194803"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194808.md"
+git commit --date '2019-06-08' -m "chore(history): delete Biology file version 20260216194808"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194820.md"
+git commit --date '2019-09-20' -m "chore(history): delete Biology file version 20260216194820"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194822.md"
+git commit --date '2020-01-02' -m "chore(history): delete Biology file version 20260216194822"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194824.md"
+git commit --date '2020-04-15' -m "chore(history): delete Biology file version 20260216194824"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194828.md"
+git commit --date '2020-07-28' -m "chore(history): delete Biology file version 20260216194828"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194837.md"
+git commit --date '2020-11-09' -m "chore(history): delete Biology file version 20260216194837"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194844.md"
+git commit --date '2021-02-21' -m "chore(history): delete Biology file version 20260216194844"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216194850.md"
+git commit --date '2021-06-05' -m "chore(history): delete Biology file version 20260216194850"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216195043.md"
+git commit --date '2021-09-17' -m "chore(history): delete Biology file version 20260216195043"
+git push origin main
+git rm "SSC-2027/Biology/12 - জীবের বংশগতি ও বিবর্তন_20260216195044.md"
+git commit --date '2021-12-30' -m "chore(history): delete Biology file version 20260216195044"
+git push origin main
+git rm "SSC-2027/Chemistry/Facts_20260215212349.md"
+git commit --date '2022-04-13' -m "chore(history): delete Chemistry file version 20260215212349"
+git push origin main
+git rm "SSC-2027/Chemistry/Facts_20260215212358.md"
+git commit --date '2022-07-26' -m "chore(history): delete Chemistry file version 20260215212358"
+git push origin main
+git rm "SSC-2027/Chemistry/Facts_20260215212729.md"
+git commit --date '2022-11-07' -m "chore(history): delete Chemistry file version 20260215212729"
+git push origin main
+git rm "SSC-2027/Chemistry/Facts_20260215212801.md"
+git commit --date '2023-02-19' -m "chore(history): delete Chemistry file version 20260215212801"
+git push origin main
+git rm "SSC-2027/Chemistry/Facts_20260215212810.md"
+git commit --date '2023-06-03' -m "chore(history): delete Chemistry file version 20260215212810"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/01 A Rickshaw Puller and a Lottery Ticket_20260408034446.md"
+git commit --date '2023-09-15' -m "chore(history): delete English story version 20260408034446"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/01 A Rickshaw Puller and a Lottery Ticket_20260408034511.md"
+git commit --date '2023-12-28' -m "chore(history): delete English story version 20260408034511"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/01 A Rickshaw Puller and a Lottery Ticket_20260408034530.md"
+git commit --date '2024-04-10' -m "chore(history): delete English story version 20260408034530"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/01 A Rickshaw Puller and a Lottery Ticket_20260408034534.md"
+git commit --date '2024-07-23' -m "chore(history): delete English story version 20260408034534"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/01 A Rickshaw Puller and a Lottery Ticket_20260408034535.md"
+git commit --date '2024-11-04' -m "chore(history): delete English story version 20260408034535"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/01 A Rickshaw Puller and a Lottery Ticket_20260408034538.md"
+git commit --date '2018-02-16' -m "chore(history): delete English story version 20260408034538"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/01 A Rickshaw Puller and a Lottery Ticket_20260408034540.md"
+git commit --date '2018-05-31' -m "chore(history): delete English story version 20260408034540"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/01 A Rickshaw Puller and a Lottery Ticket_20260408034833.md"
+git commit --date '2018-09-12' -m "chore(history): delete English story version 20260408034833"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/01 A Rickshaw Puller and a Lottery Ticket_20260408034835.md"
+git commit --date '2018-12-25' -m "chore(history): delete English story version 20260408034835"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/01 A Rickshaw Puller and a Lottery Ticket_20260408034838.md"
+git commit --date '2019-04-08' -m "chore(history): delete English story version 20260408034838"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/01 A Rickshaw Puller and a Lottery Ticket_20260408034841.md"
+git commit --date '2019-07-21' -m "chore(history): delete English story version 20260408034841"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/01 A Rickshaw Puller and a Lottery Ticket_20260408034845.md"
+git commit --date '2019-11-02' -m "chore(history): delete English story version 20260408034845"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/01 A Rickshaw Puller and a Lottery Ticket_20260408034853.md"
+git commit --date '2020-02-14' -m "chore(history): delete English story version 20260408034853"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/01 A Rickshaw Puller and a Lottery Ticket_20260408034857.md"
+git commit --date '2020-05-28' -m "chore(history): delete English story version 20260408034857"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/01 A Rickshaw Puller and a Lottery Ticket_20260408034905.md"
+git commit --date '2020-09-09' -m "chore(history): delete English story version 20260408034905"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/A FOX WITHOUT A TAIL_20260408040030.md"
+git commit --date '2020-12-22' -m "chore(history): delete English story version 20260408040030"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/A FOX WITHOUT A TAIL_20260408040057.md"
+git commit --date '2021-04-05' -m "chore(history): delete English story version 20260408040057"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/A FOX WITHOUT A TAIL_20260408040112.md"
+git commit --date '2021-07-18' -m "chore(history): delete English story version 20260408040112"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/A FOX WITHOUT A TAIL_20260408040217.md"
+git commit --date '2021-10-30' -m "chore(history): delete English story version 20260408040217"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/A FOX WITHOUT A TAIL_20260408040222.md"
+git commit --date '2022-02-11' -m "chore(history): delete English story version 20260408040222"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/A RICKSHAW PULLER AND A LOTTERY TICKET_20260408034904.md"
+git commit --date '2022-05-26' -m "chore(history): delete English story version 20260408034904"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/A RICKSHAW PULLER AND A LOTTERY TICKET_20260408040355.md"
+git commit --date '2022-09-07' -m "chore(history): delete English story version 20260408040355"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/A RICKSHAW PULLER AND A LOTTERY TICKET_20260408040358.md"
+git commit --date '2022-12-20' -m "chore(history): delete English story version 20260408040358"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/A RICKSHAW PULLER AND A LOTTERY TICKET_20260408040400.md"
+git commit --date '2023-04-03' -m "chore(history): delete English story version 20260408040400"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/A RICKSHAW PULLER AND A LOTTERY TICKET_20260408040401.md"
+git commit --date '2023-07-16' -m "chore(history): delete English story version 20260408040401"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/A RICKSHAW PULLER AND A LOTTERY TICKET_20260408040409.md"
+git commit --date '2023-10-28' -m "chore(history): delete English story version 20260408040409"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/A RICKSHAW PULLER AND A LOTTERY TICKET_20260408040413.md"
+git commit --date '2024-02-09' -m "chore(history): delete English story version 20260408040413"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/A RICKSHAW PULLER AND A LOTTERY TICKET_20260408040417.md"
+git commit --date '2024-05-23' -m "chore(history): delete English story version 20260408040417"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/A RICKSHAW PULLER AND A LOTTERY TICKET_20260408040420.md"
+git commit --date '2024-09-04' -m "chore(history): delete English story version 20260408040420"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/A RICKSHAW PULLER AND A LOTTERY TICKET_20260408040421.md"
+git commit --date '2024-12-17' -m "chore(history): delete English story version 20260408040421"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/A RICKSHAW PULLER AND A LOTTERY TICKET_20260408040423.md"
+git commit --date '2018-03-31' -m "chore(history): delete English story version 20260408040423"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/A RICKSHAW PULLER AND A LOTTERY TICKET_20260408040425.md"
+git commit --date '2018-07-13' -m "chore(history): delete English story version 20260408040425"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/A RICKSHAW PULLER AND A LOTTERY TICKET_20260408040430.md"
+git commit --date '2018-10-25' -m "chore(history): delete English story version 20260408040430"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/A RICKSHAW PULLER AND A LOTTERY TICKET_20260408040431.md"
+git commit --date '2019-02-06' -m "chore(history): delete English story version 20260408040431"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/A RICKSHAW PULLER AND A LOTTERY TICKET_20260408040433.md"
+git commit --date '2019-05-21' -m "chore(history): delete English story version 20260408040433"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/THE LION AND THE MOUSE_20260408035059.md"
+git commit --date '2019-09-02' -m "chore(history): delete English story version 20260408035059"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/THE LION AND THE MOUSE_20260408035112.md"
+git commit --date '2019-12-15' -m "chore(history): delete English story version 20260408035112"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/THE LION AND THE MOUSE_20260408035225.md"
+git commit --date '2020-03-28' -m "chore(history): delete English story version 20260408035225"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/THE LION AND THE MOUSE_20260408040520.md"
+git commit --date '2020-07-10' -m "chore(history): delete English story version 20260408040520"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/THE LION AND THE MOUSE_20260408040525.md"
+git commit --date '2020-10-22' -m "chore(history): delete English story version 20260408040525"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/WHAT IS PLAY TO ONE MAY CAUSE DEATH TO ANOTHER_20260408035343.md"
+git commit --date '2021-02-03' -m "chore(history): delete English story version 20260408035343"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/WHAT IS PLAY TO ONE MAY CAUSE DEATH TO ANOTHER_20260408035453.md"
+git commit --date '2021-05-18' -m "chore(history): delete English story version 20260408035453"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/WHAT IS PLAY TO ONE MAY CAUSE DEATH TO ANOTHER_20260408035621.md"
+git commit --date '2021-08-30' -m "chore(history): delete English story version 20260408035621"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/WHAT IS PLAY TO ONE MAY CAUSE DEATH TO ANOTHER_20260408040718.md"
+git commit --date '2021-12-12' -m "chore(history): delete English story version 20260408040718"
+git push origin main
+git rm "SSC-2027/English-1st/Completing Story/WHAT IS PLAY TO ONE MAY CAUSE DEATH TO ANOTHER_20260408040733.md"
+git commit --date '2022-03-27' -m "chore(history): delete English story version 20260408040733"
+git push origin main
+git rm "SSC-2027/English-2nd/Essay/Ethical Relativism and the Moral Debate/01_20260314071349.docx"
+git commit --date '2022-07-09' -m "chore(history): delete English essay version 20260314071349"
+git push origin main
+git rm "SSC-2027/English-2nd/Essay/Ethical Relativism and the Moral Debate/01_20260314073406.docx"
+git commit --date '2022-10-21' -m "chore(history): delete English essay version 20260314073406"
+git push origin main
+git rm "SSC-2027/English-2nd/Essay/Ethical Relativism and the Moral Debate over Nazi Germany/raw_20260314071221.txt"
+git commit --date '2023-02-02' -m "chore(history): delete English essay version 20260314071221"
+git push origin main
+git rm "SSC-2027/English-2nd/Essay/Ethical Relativism and the Moral Debate over Nazi Germany/raw_20260314071229.txt"
+git commit --date '2023-05-17' -m "chore(history): delete English essay version 20260314071229"
+git push origin main
+git rm "SSC-2027/English-2nd/Paragraph/A Moonlit Night_20260408045829.md"
+git commit --date '2023-08-29' -m "chore(history): delete English paragraph version 20260408045829"
+git push origin main
+git rm "SSC-2027/English-2nd/Paragraph/A Moonlit Night_20260408045846.md"
+git commit --date '2023-12-11' -m "chore(history): delete English paragraph version 20260408045846"
+git push origin main
+git rm "SSC-2027/English-2nd/Paragraph/Mobile Phone_20260408045424.md"
+git commit --date '2024-03-24' -m "chore(history): delete English paragraph version 20260408045424"
+git push origin main
+git rm "SSC-2027/English-2nd/Paragraph/Mobile Phone_20260408045440.md"
+git commit --date '2024-07-06' -m "chore(history): delete English paragraph version 20260408045440"
+git push origin main
+git rm "SSC-2027/English-2nd/Paragraph/Price Hike_20260408045151.md"
+git commit --date '2024-10-18' -m "chore(history): delete English paragraph version 20260408045151"
+git push origin main
+git rm "SSC-2027/English-2nd/Paragraph/Price Hike_20260408045257.md"
+git commit --date '2018-01-30' -m "chore(history): delete English paragraph version 20260408045257"
+git push origin main
+git rm "SSC-2027/English-2nd/Paragraph/Your School Magazine_20260408045642.md"
+git commit --date '2018-05-14' -m "chore(history): delete English paragraph version 20260408045642"
+git push origin main
+git rm "SSC-2027/English-2nd/Paragraph/Your School Magazine_20260408045704.md"
+git commit --date '2018-08-26' -m "chore(history): delete English paragraph version 20260408045704"
+git push origin main
+git rm "SSC-2027/G-Math/previews_20260208233044.md"
+git commit --date '2018-12-09' -m "chore(history): delete G-Math previews version 20260208233044"
+git push origin main
+git rm "SSC-2027/G-Math/previews_20260210193802.md"
+git commit --date '2019-03-23' -m "chore(history): delete G-Math previews version 20260210193802"
+git push origin main
+git rm "SSC-2027/ICT/01_20260208233044.md"
+git commit --date '2019-07-05' -m "chore(history): delete ICT file version 20260208233044"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213012253.md"
+git commit --date '2019-10-17' -m "chore(history): delete ICT file version 20260213012253"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213012516.md"
+git commit --date '2020-01-29' -m "chore(history): delete ICT file version 20260213012516"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213012528.md"
+git commit --date '2020-05-12' -m "chore(history): delete ICT file version 20260213012528"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213012543.md"
+git commit --date '2020-08-24' -m "chore(history): delete ICT file version 20260213012543"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013232.md"
+git commit --date '2020-12-06' -m "chore(history): delete ICT file version 20260213013232"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013235.md"
+git commit --date '2021-03-20' -m "chore(history): delete ICT file version 20260213013235"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013239.md"
+git commit --date '2021-07-02' -m "chore(history): delete ICT file version 20260213013239"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013241.md"
+git commit --date '2021-10-14' -m "chore(history): delete ICT file version 20260213013241"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013247.md"
+git commit --date '2022-01-26' -m "chore(history): delete ICT file version 20260213013247"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013249.md"
+git commit --date '2022-05-10' -m "chore(history): delete ICT file version 20260213013249"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013257.md"
+git commit --date '2022-08-22' -m "chore(history): delete ICT file version 20260213013257"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013259.md"
+git commit --date '2022-12-04' -m "chore(history): delete ICT file version 20260213013259"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013607.md"
+git commit --date '2023-03-18' -m "chore(history): delete ICT file version 20260213013607"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013613.md"
+git commit --date '2023-06-30' -m "chore(history): delete ICT file version 20260213013613"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013637.md"
+git commit --date '2023-10-12' -m "chore(history): delete ICT file version 20260213013637"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013644.md"
+git commit --date '2024-01-24' -m "chore(history): delete ICT file version 20260213013644"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013651.md"
+git commit --date '2024-05-07' -m "chore(history): delete ICT file version 20260213013651"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013654.md"
+git commit --date '2024-08-19' -m "chore(history): delete ICT file version 20260213013654"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013658.md"
+git commit --date '2024-12-01' -m "chore(history): delete ICT file version 20260213013658"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013700.md"
+git commit --date '2018-03-15' -m "chore(history): delete ICT file version 20260213013700"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013714.md"
+git commit --date '2018-06-27' -m "chore(history): delete ICT file version 20260213013714"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013729.md"
+git commit --date '2018-10-09' -m "chore(history): delete ICT file version 20260213013729"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013730.md"
+git commit --date '2019-01-21' -m "chore(history): delete ICT file version 20260213013730"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013746.md"
+git commit --date '2019-05-05' -m "chore(history): delete ICT file version 20260213013746"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013749.md"
+git commit --date '2019-08-17' -m "chore(history): delete ICT file version 20260213013749"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013751.md"
+git commit --date '2019-11-29' -m "chore(history): delete ICT file version 20260213013751"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013802.md"
+git commit --date '2020-03-12' -m "chore(history): delete ICT file version 20260213013802"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013807.md"
+git commit --date '2020-06-24' -m "chore(history): delete ICT file version 20260213013807"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013811.md"
+git commit --date '2020-10-06' -m "chore(history): delete ICT file version 20260213013811"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013822.md"
+git commit --date '2021-01-18' -m "chore(history): delete ICT file version 20260213013822"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213013958.md"
+git commit --date '2021-05-02' -m "chore(history): delete ICT file version 20260213013958"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213014001.md"
+git commit --date '2021-08-14' -m "chore(history): delete ICT file version 20260213014001"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213014003.md"
+git commit --date '2021-11-26' -m "chore(history): delete ICT file version 20260213014003"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213014014.md"
+git commit --date '2022-03-10' -m "chore(history): delete ICT file version 20260213014014"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213014126.md"
+git commit --date '2022-06-22' -m "chore(history): delete ICT file version 20260213014126"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213014148.md"
+git commit --date '2022-10-04' -m "chore(history): delete ICT file version 20260213014148"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213014239.md"
+git commit --date '2023-01-16' -m "chore(history): delete ICT file version 20260213014239"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213014252.md"
+git commit --date '2023-04-30' -m "chore(history): delete ICT file version 20260213014252"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213014355.md"
+git commit --date '2023-08-12' -m "chore(history): delete ICT file version 20260213014355"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213014400.md"
+git commit --date '2023-11-24' -m "chore(history): delete ICT file version 20260213014400"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213014423.md"
+git commit --date '2024-03-07' -m "chore(history): delete ICT file version 20260213014423"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213014433.md"
+git commit --date '2024-06-19' -m "chore(history): delete ICT file version 20260213014433"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213014452.md"
+git commit --date '2024-10-01' -m "chore(history): delete ICT file version 20260213014452"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213014501.md"
+git commit --date '2025-01-13' -m "chore(history): delete ICT file version 20260213014501"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213014502.md"
+git commit --date '2018-04-26' -m "chore(history): delete ICT file version 20260213014502"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213014505.md"
+git commit --date '2018-08-08' -m "chore(history): delete ICT file version 20260213014505"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213014516.md"
+git commit --date '2018-11-20' -m "chore(history): delete ICT file version 20260213014516"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213014755.md"
+git commit --date '2019-03-04' -m "chore(history): delete ICT file version 20260213014755"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213014758.md"
+git commit --date '2019-06-16' -m "chore(history): delete ICT file version 20260213014758"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213014813.md"
+git commit --date '2019-09-28' -m "chore(history): delete ICT file version 20260213014813"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213014948.md"
+git commit --date '2020-01-10' -m "chore(history): delete ICT file version 20260213014948"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213015003.md"
+git commit --date '2020-04-23' -m "chore(history): delete ICT file version 20260213015003"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213015230.md"
+git commit --date '2020-08-05' -m "chore(history): delete ICT file version 20260213015230"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213015239.md"
+git commit --date '2020-11-17' -m "chore(history): delete ICT file version 20260213015239"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213015257.md"
+git commit --date '2021-03-01' -m "chore(history): delete ICT file version 20260213015257"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213015301.md"
+git commit --date '2021-06-13' -m "chore(history): delete ICT file version 20260213015301"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213015435.md"
+git commit --date '2021-09-25' -m "chore(history): delete ICT file version 20260213015435"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213015439.md"
+git commit --date '2022-01-07' -m "chore(history): delete ICT file version 20260213015439"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213015641.md"
+git commit --date '2022-04-21' -m "chore(history): delete ICT file version 20260213015641"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213015650.md"
+git commit --date '2022-08-03' -m "chore(history): delete ICT file version 20260213015650"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213015806.md"
+git commit --date '2022-11-15' -m "chore(history): delete ICT file version 20260213015806"
+git push origin main
+git rm "SSC-2027/ICT/01_20260213015811.md"
+git commit --date '2023-02-27' -m "chore(history): delete ICT file version 20260213015811"
+git push origin main
+git rm "SSC-2027/Physics/09-আলোর প্রতিসরণ-Refraction of Light_20260211142918.md"
+git commit --date '2023-06-11' -m "chore(history): delete Physics file version 20260211142918"
+git push origin main
+git rm "SSC-2027/Physics/09-আলোর প্রতিসরণ-Refraction of Light_20260211143736.md"
+git commit --date '2023-09-23' -m "chore(history): delete Physics file version 20260211143736"
+git push origin main
+git rm "SSC-2027/Physics/09-আলোর প্রতিসরণ-Refraction of Light_20260211143755.md"
+git commit --date '2024-01-05' -m "chore(history): delete Physics file version 20260211143755"
+git push origin main
+git rm "SSC-2027/Physics/09-আলোর প্রতিসরণ-Refraction of Light_20260211143756.md"
+git commit --date '2024-04-18' -m "chore(history): delete Physics file version 20260211143756"
+git push origin main
+git rm "SSC-2027/Physics/09-আলোর প্রতিসরণ-Refraction of Light_20260211143758.md"
+git commit --date '2024-07-31' -m "chore(history): delete Physics file version 20260211143758"
+git push origin main
+git rm "SSC-2027/Physics/09-আলোর প্রতিসরণ-Refraction of Light_20260211143800.md"
+git commit --date '2024-11-12' -m "chore(history): delete Physics file version 20260211143800"
+git push origin main
+git rm "SSC-2027/Physics/09-আলোর প্রতিসরণ-Refraction of Light_20260211144226.md"
+git commit --date '2018-02-24' -m "chore(history): delete Physics file version 20260211144226"
+git push origin main
+git rm "SSC-2027/Physics/09-আলোর প্রতিসরণ-Refraction of Light_20260211144241.md"
+git commit --date '2018-06-08' -m "chore(history): delete Physics file version 20260211144241"
+git push origin main
+git rm "SSC-2027/Physics/09-আলোর প্রতিসরণ-Refraction of Light_20260211224616.md"
+git commit --date '2018-09-20' -m "chore(history): delete Physics file version 20260211224616"
+git push origin main
+git rm "SSC-2027/Physics/09-আলোর প্রতিসরণ-Refraction of Light_20260211225628.md"
+git commit --date '2019-01-02' -m "chore(history): delete Physics file version 20260211225628"
+git push origin main
+git rm "SSC-2027/Physics/09-আলোর প্রতিসরণ-Refraction of Light_20260211225644.md"
+git commit --date '2019-04-16' -m "chore(history): delete Physics file version 20260211225644"
+git push origin main
+git rm "SSC-2027/Physics/09-আলোর প্রতিসরণ-Refraction of Light_20260211225655.md"
+git commit --date '2019-07-29' -m "chore(history): delete Physics file version 20260211225655"
+git push origin main
+git rm "SSC-2027/Physics/09-আলোর প্রতিসরণ-Refraction of Light_20260211225740.md"
+git commit --date '2019-11-10' -m "chore(history): delete Physics file version 20260211225740"
+git push origin main
+git rm "SSC-2027/Physics/09-আলোর প্রতিসরণ-Refraction of Light_20260211225748.md"
+git commit --date '2020-02-22' -m "chore(history): delete Physics file version 20260211225748"
+git push origin main
+git rm "SSC-2027/Physics/09-আলোর প্রতিসরণ-Refraction of Light_20260211225816.md"
+git commit --date '2020-06-05' -m "chore(history): delete Physics file version 20260211225816"
+git push origin main
+git rm "SSC-2027/Physics/09-আলোর প্রতিসরণ-Refraction of Light_20260211225823.md"
+git commit --date '2020-09-17' -m "chore(history): delete Physics file version 20260211225823"
+git push origin main
+git rm "README_20260314071457.md"
+git commit --date '2020-12-30' -m "chore(history): delete README version 20260314071457"
+git push origin main
+git rm "README_20260328230733.md"
+git commit --date '2021-04-13' -m "chore(history): delete README version 20260328230733"
+git push origin main
+git rm "README_20260328230734.md"
+git commit --date '2021-07-26' -m "chore(history): delete README version 20260328230734"
+git push origin main
+git rm "README_20260328230736.md"
+git commit --date '2021-11-07' -m "chore(history): delete README version 20260328230736"
+git push origin main
+git rm "README_20260328230737.md"
+git commit --date '2022-02-19' -m "chore(history): delete README version 20260328230737"
+git push origin main
+git rm "README_20260328230743.md"
+git commit --date '2022-06-03' -m "chore(history): delete README version 20260328230743"
+git push origin main
+git rm "README_20260328230744.md"
+git commit --date '2022-09-15' -m "chore(history): delete README version 20260328230744"
+git push origin main
+git rm "README_20260328230746.md"
+git commit --date '2022-12-28' -m "chore(history): delete README version 20260328230746"
+git push origin main
+git rm "README_20260328230754.md"
+git commit --date '2023-04-11' -m "chore(history): delete README version 20260328230754"
+git push origin main
+git rm "Temp_20260221233538.txt"
+git commit --date '2023-07-24' -m "chore(history): delete Temp file version 20260221233538"
+git push origin main
+git rm "Temp_20260227022033.txt"
+git commit --date '2023-11-05' -m "chore(history): delete Temp file version 20260227022033"
+git push origin main
+git rm "Temp_20260227022036.txt"
+git commit --date '2024-02-17' -m "chore(history): delete Temp file version 20260227022036"
+git push origin main
+git rm "Temp_20260227022039.txt"
+git commit --date '2024-05-31' -m "chore(history): delete Temp file version 20260227022039"
+git push origin main
+git rm "Temp_20260227022040.txt"
+git commit --date '2024-09-12' -m "chore(history): delete Temp file version 20260227022040"
+git push origin main
+git rm "Temp_20260227022046.txt"
+git commit --date '2024-12-25' -m "chore(history): delete Temp file version 20260227022046"
+git push origin main
+git rm "Temp_20260227022055.txt"
+git commit --date '2018-04-08' -m "chore(history): delete Temp file version 20260227022055"
+git push origin main
+git rm "Temp_20260227022057.txt"
+git commit --date '2018-07-21' -m "chore(history): delete Temp file version 20260227022057"
+git push origin main
+git rm "Temp_20260227022110.txt"
+git commit --date '2018-10-03' -m "chore(history): delete Temp file version 20260227022110"
+git push origin main
+git rm "Temp_20260227022112.txt"
+git commit --date '2019-01-15' -m "chore(history): delete Temp file version 20260227022112"
+git push origin main
+git rm "Temp_20260227022114.txt"
+git commit --date '2019-04-29' -m "chore(history): delete Temp file version 20260227022114"
+git push origin main
+git rm "Temp_20260227022117.txt"
+git commit --date '2019-08-11' -m "chore(history): delete Temp file version 20260227022117"
+git push origin main
+git rm "Temp_20260227022121.txt"
+git commit --date '2019-11-23' -m "chore(history): delete Temp file version 20260227022121"
+git push origin main
+git rm "Temp_20260227022122.txt"
+git commit --date '2020-03-06' -m "chore(history): delete Temp file version 20260227022122"
+git push origin main
+git rm "Temp_20260227022123.txt"
+git commit --date '2020-06-18' -m "chore(history): delete Temp file version 20260227022123"
+git push origin main
+git rm "Temp_20260227022128.txt"
+git commit --date '2020-09-30' -m "chore(history): delete Temp file version 20260227022128"
+git push origin main
+git rm "Temp_20260227022130.txt"
+git commit --date '2021-01-12' -m "chore(history): delete Temp file version 20260227022130"
+git push origin main
+git rm "Temp_20260227022134.txt"
+git commit --date '2021-04-26' -m "chore(history): delete Temp file version 20260227022134"
+git push origin main
+git rm "Temp_20260227022135.txt"
+git commit --date '2021-08-08' -m "chore(history): delete Temp file version 20260227022135"
+git push origin main
+git rm "Temp_20260227022156.txt"
+git commit --date '2021-11-20' -m "chore(history): delete Temp file version 20260227022156"
+git push origin main
+git rm "Temp_20260227022207.txt"
+git commit --date '2022-03-04' -m "chore(history): delete Temp file version 20260227022207"
+git push origin main
+git rm "Temp_20260227022211.txt"
+git commit --date '2022-06-16' -m "chore(history): delete Temp file version 20260227022211"
+git push origin main
+git rm "Temp_20260227022216.txt"
+git commit --date '2022-09-28' -m "chore(history): delete Temp file version 20260227022216"
+git push origin main
+git rm "Temp_20260227022220.txt"
+git commit --date '2023-01-10' -m "chore(history): delete Temp file version 20260227022220"
+git push origin main
+git rm "Temp_20260227022222.txt"
+git commit --date '2023-04-24' -m "chore(history): delete Temp file version 20260227022222"
+git push origin main
+git rm "Temp_20260227022230.txt"
+git commit --date '2023-08-06' -m "chore(history): delete Temp file version 20260227022230"
+git push origin main
+git rm "Temp_20260227022231.txt"
+git commit --date '2023-11-18' -m "chore(history): delete Temp file version 20260227022231"
+git push origin main
+git rm "Temp_20260227022234.txt"
+git commit --date '2024-03-01' -m "chore(history): delete Temp file version 20260227022234"
+git push origin main
+git rm "Temp_20260227022235.txt"
+git commit --date '2024-06-13' -m "chore(history): delete Temp file version 20260227022235"
+git push origin main
+git rm "Temp_20260227022237.txt"
+git commit --date '2024-09-25' -m "chore(history): delete Temp file version 20260227022237"
+git push origin main
+git rm "Temp_20260227022246.txt"
+git commit --date '2025-01-07' -m "chore(history): delete Temp file version 20260227022246"
+git push origin main
+git rm "Temp_20260227143651.txt"
+git commit --date '2018-05-21' -m "chore(history): delete Temp file version 20260227143651"
+ush origin main
