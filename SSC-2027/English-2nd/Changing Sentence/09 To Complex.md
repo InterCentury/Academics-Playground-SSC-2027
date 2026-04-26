@@ -1,0 +1,34 @@
+## Complex Sentence (জটিল বাক্য)
+
+**বাংলায় ব্যাখ্যা:**  
+Complex sentence হলো সেই ধরনের বাক্য যেখানে **একটি প্রধান clause (principal clause)** এবং **এক বা একাধিক অধীনস্থ clause (subordinate clause)** থাকে। অধীনস্থ clause টি প্রধান clause-এর ওপর নির্ভরশীল – এটি নিজে দাঁড়াতে পারে না। এদের যুক্ত করে subordinate conjunction (যেমন: because, if, though, when, since, as, until, unless, that, which, who)।
+
+**ইংরেজিতে সংজ্ঞা:**  
+A *complex sentence* contains **one independent clause (principal clause)** and **at least one dependent clause (subordinate clause)**. The dependent clause cannot stand alone and is joined to the independent clause by a **subordinating conjunction** (because, if, though, when, since, as, until, unless, that, which, who) or a **relative pronoun**.
+
+**উদাহরণ (বাংলা + ইংরেজি):**
+
+```
+যদি বৃষ্টি আসে, তবে আমি আসব না। → If rain comes, I will not come.
+(এখানে 'If rain comes' = subordinate clause, 'I will not come' = principal clause)
+
+সে ভালো ছাত্র কারণ সে নিয়মিত পড়ে। → He is a good student because he studies regularly.
+(এখানে 'because he studies regularly' = subordinate clause)
+
+যে ছেলেটি দাঁড়িয়ে আছে সে আমার ভাই। → The boy who is standing there is my brother.
+(এখানে 'who is standing there' = subordinate clause)
+
+যখন তুমি আসবে, আমি তখন খাব। → When you come, I will eat.
+```
+
+**Note:**  
+Complex sentence চেনার সহজ উপায়:
+
+1. **Subordinate conjunction** থাকবেই – যেমন: *because, if, though, although, when, while, since, as, until, unless, before, after, that, which, who, whom, whose, where, why, how*
+
+2. Subordinate clause **নিজে দাঁড়াতে পারে না** – অর্থাৎ একে আলাদা করলে বাক্যটি অসম্পূর্ণ লাগে।
+
+3. অন্তত **একটি principal clause + একটি subordinate clause** থাকবে।
+
+**চেনার মূল চিহ্ন:**  
+বাক্যের ভেতরে **subordinate conjunction (because, if, when, though, since, that, which, who ইত্যাদি)** থাকবে, এবং এই conjunction-এর পরের অংশটি নিজে সম্পূর্ণ অর্থ প্রকাশ করবে না – প্রধান clause-এর ওপর নির্ভর করবে – এটাই মূল চিহ্ন।
