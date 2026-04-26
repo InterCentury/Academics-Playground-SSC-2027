@@ -1,0 +1,31 @@
+## Simple Sentence (সরল বাক্য)
+
+**বাংলায় ব্যাখ্যা:**  
+Simple sentence হলো সেই ধরনের বাক্য যেখানে **একটিমাত্র finite verb** (কাল ও পুরুষ অনুযায়ী পরিবর্তিত ক্রিয়া) থাকে। এতে একটি মাত্র প্রধান কাজ বা ঘটনা প্রকাশ পায়। এর ভেতরে আর কোনো অতিরিক্ত clause (নির্ভরশীল বাক্যাংশ) থাকে না।
+
+**ইংরেজিতে সংজ্ঞা:**  
+A *simple sentence* contains **only one independent clause** (একটি স্বাধীন clause)। It has **one finite verb** and expresses a complete thought. It does **not** contain any subordinate clause.
+
+**উদাহরণ (বাংলা + ইংরেজি):**
+
+```
+আমি ভাত খাই। → I eat rice.
+সে দৌড়ায়। → He runs.
+তারা গান গায়। → They sing songs.
+আমি বাড়ি যেতে চাই। → I want to go home. (এখানে 'to go' non-finite)
+বৃষ্টি এলো। → Rain came.
+```
+
+**Note:**  
+Simple sentence চেনার সহজ উপায়:
+
+1. **একটি মাত্র finite verb** থাকবে।  
+   (Finitive verb = যে verb-এর সাথে Tense, Number, Person পরিবর্তিত হয় – যেমন: eats, went, will come)
+
+2. Non-finite verb (to + verb / verb+ing / verb+ed) থাকলেও সেটি simple sentence-ই হয়।  
+   যেমন: *I like **eating** rice.* (এখানে 'like' একটি finite verb, 'eating' non-finite)
+
+3. Clause-এর সংখ্যা **এক** হবে – দ্বিতীয় কোনো clause থাকবে না।
+
+**চেনার মূল চিহ্ন:**  
+একটি বাক্যের ভেতরে **একটি মাত্র finite verb + কোনো subordinate conjunction নেই (because, if, though, when ইত্যাদি নেই) + কোনো coordinating conjunction দিয়ে দুটো clause যুক্ত নেই (and, but, or নেই)** – এটাই মূল চিহ্ন।
