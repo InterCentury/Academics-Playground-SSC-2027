@@ -52,7 +52,7 @@ Interrogative বাক্য **দুই ধরনের** হয়:
 ### 18. Everyone admires bravery. ```→ Who does not admire bravery?```
 ### 19. He did the work carefully. ```→ Did he not do the work carefully?```
 ### 20. Life is full of struggles. ```→ Is not life full of struggles?```
-
+---
 
 
 

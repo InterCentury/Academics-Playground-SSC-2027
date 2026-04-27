@@ -38,3 +38,23 @@ Assertive বাক্য **দুই ধরনের** হয়:
 ### 09. Shall we forget our martyrs? ```→ We shall never forget our martyrs.```
 ### 10. Is not time very valuable? ```→ Time is very valuable.```
 ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
