@@ -12,8 +12,7 @@ An *affirmative sentence* states that something is **true or positive**. It does
 **Note:**  
 Affirmative বাক্যে কোনো **not** বা নেতিবাচক শব্দ থাকবে না – এটাই মূল চিহ্ন।
 
-
-### NonStop Practice 
+### ⚡ NonStop Practice 
 
 ### 01. He does not play football. ```→ He plays football.```
 ### 02. She never tells a lie. ```→ She always tells the truth.```
@@ -25,3 +24,13 @@ Affirmative বাক্যে কোনো **not** বা নেতিবাচ
 ### 08. He did not fail to help me. ```→ He helped me.```
 ### 09. I cannot but laugh. ```→ I laugh.```
 ### 10. You cannot help smiling. ```→ You smile.```
+### 11. He didn't remember me. ```→ He forgot me.```
+### 12. He is not absent. ```→ He is present.```
+### 13. I never drink coffee. ```→ I always avoid coffee.```
+### 14. No one denied the truth. ```→ Everyone accepted the truth.```
+### 15. He has no money to spare. ```→ He has nothing to waste.```
+### 16. None but the brave deserves the fair. ```→ Only the brave deserves the fair.```
+### 17. He did not complete the work. ```→ He left the work incomplete.```
+### 18. There is no rose without a thorn. ```→ Every rose has a thorn.```
+### 19. He cannot but run. ```→ He runs.```
+### 20. I could not help laughing. ```→ I laughed.```
