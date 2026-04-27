@@ -34,3 +34,14 @@ Affirmative বাক্যে কোনো **not** বা নেতিবাচ
 ### 18. There is no rose without a thorn. ```→ Every rose has a thorn.```
 ### 19. He cannot but run. ```→ He runs.```
 ### 20. I could not help laughing. ```→ I laughed.```
+---
+### 21. He is not unhappy. ```→ He is happy.```
+### 22. She is not unkind. ```→ She is kind.```
+### 23. Nobody hates truth. ```→ Everybody loves truth.```
+### 24. He is not dishonest. ```→ He is honest.```
+### 25. There is no man without faults. ```→ Every man has faults.```
+### 26. None but the brave deserve success. ```→ Only the brave deserve success.```
+### 27. I cannot but admire him. ```→ I admire him.```
+### 28. He never tells a lie. ```→ He always tells the truth.```
+### 29. No one can deny this. ```→ Everyone can admit this.```
+### 30. She does not dislike flowers. ```→ She likes flowers.```
