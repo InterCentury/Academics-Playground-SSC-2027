@@ -32,3 +32,8 @@ Complex sentence চেনার সহজ উপায়:
 
 **চেনার মূল চিহ্ন:**  
 বাক্যের ভেতরে **subordinate conjunction (because, if, when, though, since, that, which, who ইত্যাদি)** থাকবে, এবং এই conjunction-এর পরের অংশটি নিজে সম্পূর্ণ অর্থ প্রকাশ করবে না – প্রধান clause-এর ওপর নির্ভর করবে – এটাই মূল চিহ্ন।
+
+
+
+
+### ⚡ NonStop Practice 
