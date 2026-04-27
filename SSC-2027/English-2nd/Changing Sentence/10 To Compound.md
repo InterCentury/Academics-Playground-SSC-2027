@@ -68,7 +68,7 @@ Compound sentence চেনার সহজ উপায়:
 ### 18. To tell the truth, I was afraid. ```→ I was afraid but I told the truth.```
 ### 19. Besides being rich, he is generous. ```→ He is rich and he is generous.```
 ### 20. He was too weak to move. ```→ He was weak and so he could not move.```
-
+---
 
 
 
