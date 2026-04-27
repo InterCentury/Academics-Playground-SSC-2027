@@ -46,7 +46,16 @@ Negative বাক্যে **not, no, never, nobody, nothing, nowhere** ইত�
 ### 20. She loves music. ```→ She does not dislike music.```
 ---
 
-
+### 21. He is wise. ```→ He is not foolish.```
+### 22. Everyone trusts him. ```→ No one distrusts him.```
+### 23. She is always cheerful. ```→ She is never gloomy.```
+### 24. All students were present. ```→ No student was absent.```
+### 25. Only the brave can face danger. ```→ None but the brave can face danger.```
+### 26. He remembers every detail. ```→ He forgets nothing.```
+### 27. Both friends agreed. ```→ Neither friend disagreed.```
+### 28. We must follow the rules. ```→ We cannot but follow the rules.```
+### 29. He was fortunate. ```→ He was not unfortunate.```
+### 30. She likes reading books. ```→ She does not dislike reading books.```
 
 
 
