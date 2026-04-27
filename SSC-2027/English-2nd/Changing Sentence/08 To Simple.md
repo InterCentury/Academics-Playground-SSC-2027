@@ -33,3 +33,13 @@ Simple sentence চেনার সহজ উপায়:
 
 
 ### ⚡ NonStop Practice 
+### 01. As he was ill, he could not attend school. ```→ Being ill, he could not attend school.```
+### 02. Though he is poor, he is honest. ```→ In spite of his poverty, he is honest.```
+### 03. When the thief saw the police, he ran away. ```→ Seeing the police, the thief ran away.```
+### 04. Because he worked hard, he succeeded. ```→ Working hard, he succeeded.```
+### 05. He is so weak that he cannot walk. ```→ He is too weak to walk.```
+### 06. If you do not work hard, you cannot succeed. ```→ Without working hard, you cannot succeed.```
+### 07. Though he tried hard, he failed. ```→ In spite of trying hard, he failed.```
+### 08. When the boy saw the tiger, he ran away. ```→ Seeing the tiger, the boy ran away.```
+### 09. As he was tired, he went to bed. ```→ Being tired, he went to bed.```
+### 10. Though he was ill, he attended class. ```→ In spite of his illness, he attended class.```
