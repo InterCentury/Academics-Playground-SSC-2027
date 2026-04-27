@@ -46,3 +46,30 @@ Compound sentence চেনার সহজ উপায়:
 
 
 ### ⚡ NonStop Practice 
+
+### 01. Being tired, he went to bed. ```→ He was tired and so he went to bed.```
+### 02. In spite of his poverty, he is happy. ```→ He is poor but he is happy.```
+### 03. Working hard, he succeeded. ```→ He worked hard and so he succeeded.```
+### 04. He is too weak to walk. ```→ He is weak and so he cannot walk.```
+### 05. Without reading, you cannot pass. ```→ Read well or you cannot pass.```
+### 06. Seeing the police, the thief fled. ```→ The thief saw the police and fled.```
+### 07. In spite of his illness, he attended class. ```→ He was ill but he attended class.```
+### 08. To speak the truth, I was afraid. ```→ I was afraid but I spoke the truth.```
+### 09. Being honest, he is respected. ```→ He is honest and so he is respected.```
+### 10. Besides being rich, he is kind. ```→ He is rich and he is kind.```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
