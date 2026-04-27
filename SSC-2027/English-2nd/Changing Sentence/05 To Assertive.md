@@ -26,3 +26,14 @@ Assertive বাক্য **দুই ধরনের** হয়:
 
 
 ### ⚡ NonStop Practice 
+
+### 01. Is he not a good boy? ```→ He is a good boy.```
+### 02. Who does not love his country? ```→ Everyone loves his country.```
+### 03. Can anyone deny the truth? ```→ No one can deny the truth.```
+### 04. Is not honesty the best policy? ```→ Honesty is the best policy.```
+### 05. Who does not want happiness? ```→ Everyone wants happiness.```
+### 06. Can we live without air? ```→ We cannot live without air.```
+### 07. Was he not present there? ```→ He was present there.```
+### 08. Who does not admire bravery? ```→ Everyone admires bravery.```
+### 09. Shall we forget our martyrs? ```→ We shall never forget our martyrs.```
+### 10. Is not time very valuable? ```→ Time is very valuable.```
