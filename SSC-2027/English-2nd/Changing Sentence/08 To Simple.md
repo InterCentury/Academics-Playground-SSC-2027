@@ -29,3 +29,7 @@ Simple sentence চেনার সহজ উপায়:
 
 **চেনার মূল চিহ্ন:**  
 একটি বাক্যের ভেতরে **একটি মাত্র finite verb + কোনো subordinate conjunction নেই (because, if, though, when ইত্যাদি নেই) + কোনো coordinating conjunction দিয়ে দুটো clause যুক্ত নেই (and, but, or নেই)** – এটাই মূল চিহ্ন।
+
+
+
+### ⚡ NonStop Practice 
