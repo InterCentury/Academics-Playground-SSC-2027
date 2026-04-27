@@ -41,7 +41,17 @@ Interrogative বাক্য **দুই ধরনের** হয়:
 ### 09. He always speaks the truth. ```→ Does he not always speak the truth?```
 ### 10. Man is mortal. ```→ Is not man mortal?```
 
-
+---
+### 11. Everybody loves his mother. ```→ Who does not love his mother?```
+### 12. We should obey our parents. ```→ Should we not obey our parents?```
+### 13. He was happy there. ```→ Was he not happy there?```
+### 14. You can trust him. ```→ Can you not trust him?```
+### 15. She sings very well. ```→ Does she not sing very well?```
+### 16. Truth always prevails. ```→ Does not truth always prevail?```
+### 17. We must respect our teachers. ```→ Must we not respect our teachers?```
+### 18. Everyone admires bravery. ```→ Who does not admire bravery?```
+### 19. He did the work carefully. ```→ Did he not do the work carefully?```
+### 20. Life is full of struggles. ```→ Is not life full of struggles?```
 
 
 
