@@ -32,3 +32,13 @@ Exclamatory বাক্য **দুটি সাধারণ কাঠামো
 
 
 ### ⚡ NonStop Practice 
+### 01. It is a very beautiful flower. ```→ What a beautiful flower it is!```
+### 02. She is very kind. ```→ How kind she is!```
+### 03. The night is very charming. ```→ What a charming night it is!```
+### 04. He is very brave. ```→ How brave he is!```
+### 05. It is a very lovely scene. ```→ What a lovely scene it is!```
+### 06. The boy is very intelligent. ```→ How intelligent the boy is!```
+### 07. It is a very terrible storm. ```→ What a terrible storm it is!```
+### 08. She looks very সুন্দর. ```→ How beautiful she looks!```
+### 09. The moon is very bright tonight. ```→ How bright the moon is tonight!```
+### 10. It is a very wonderful idea. ```→ What a wonderful idea it is!```
