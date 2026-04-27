@@ -57,7 +57,7 @@ Compound sentence চেনার সহজ উপায়:
 ### 08. To speak the truth, I was afraid. ```→ I was afraid but I spoke the truth.```
 ### 09. Being honest, he is respected. ```→ He is honest and so he is respected.```
 ### 10. Besides being rich, he is kind. ```→ He is rich and he is kind.```
-
+---
 
 
 
