@@ -29,3 +29,20 @@ Interrogative বাক্য **দুই ধরনের** হয়:
 
 
 ### ⚡ NonStop Practice 
+
+### 01. He is a good boy. ```→ Is he not a good boy?```
+### 02. She was very kind. ```→ Was she not very kind?```
+### 03. We should help the poor. ```→ Should we not help the poor?```
+### 04. Everybody wants success. ```→ Who does not want success?```
+### 05. He can solve the problem. ```→ Can he not solve the problem?```
+### 06. You know the truth. ```→ Do you not know the truth?```
+### 07. Honesty is the best policy. ```→ Is not honesty the best policy?```
+### 08. I can never forget you. ```→ Can I ever forget you?```
+### 09. He always speaks the truth. ```→ Does he not always speak the truth?```
+### 10. Man is mortal. ```→ Is not man mortal?```
+
+
+
+
+
+
