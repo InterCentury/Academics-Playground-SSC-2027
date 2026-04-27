@@ -58,7 +58,16 @@ Compound sentence চেনার সহজ উপায়:
 ### 09. Being honest, he is respected. ```→ He is honest and so he is respected.```
 ### 10. Besides being rich, he is kind. ```→ He is rich and he is kind.```
 ---
-
+### 11. Being hungry, he ate quickly. ```→ He was hungry and so he ate quickly.```
+### 12. In spite of his poverty, he is contented. ```→ He is poor but he is contented.```
+### 13. Working sincerely, she passed the exam. ```→ She worked sincerely and so she passed the exam.```
+### 14. Without practicing, you cannot improve. ```→ Practice or you cannot improve.```
+### 15. Seeing the snake, the girl screamed. ```→ The girl saw the snake and screamed.```
+### 16. In spite of his old age, he works hard. ```→ He is old but he works hard.```
+### 17. Being honest, he was respected by all. ```→ He was honest and so all respected him.```
+### 18. To tell the truth, I was afraid. ```→ I was afraid but I told the truth.```
+### 19. Besides being rich, he is generous. ```→ He is rich and he is generous.```
+### 20. He was too weak to move. ```→ He was weak and so he could not move.```
 
 
 
