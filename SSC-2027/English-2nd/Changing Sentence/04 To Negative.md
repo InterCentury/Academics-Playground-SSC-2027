@@ -22,3 +22,14 @@ Negative বাক্যে **not, no, never, nobody, nothing, nowhere** ইত�
 
 
 ### ⚡ NonStop Practice 
+
+### 01. He plays football. ```→ He does not play football.```
+### 02. She always tells the truth. ```→ She never tells a lie.```
+### 03. Everybody likes him. ```→ Nobody dislikes him.```
+### 04. I have something to say. ```→ I have nothing to say.```
+### 05. He is honest. ```→ He is not honest.```
+### 06. Every boy has a pen. ```→ There is no boy without a pen.```
+### 07. Only a fool can do this. ```→ None but a fool can do this.```
+### 08. He helped me. ```→ He did not fail to help me.```
+### 09. I laugh. ```→ I cannot but laugh.```
+### 10. You smile. ```→ You cannot help smiling.```
