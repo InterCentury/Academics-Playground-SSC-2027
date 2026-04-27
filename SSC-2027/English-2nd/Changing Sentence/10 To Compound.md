@@ -79,7 +79,7 @@ Compound sentence চেনার সহজ উপায়:
 ### 28. To confess the truth, he was ashamed. ```→ He was ashamed but he confessed the truth.```
 ### 29. Besides being talented, she is hardworking. ```→ She is talented and she is hardworking.```
 ### 30. He was too tired to continue. ```→ He was tired and so he could not continue.```
-
+---
 
 
 
