@@ -69,7 +69,16 @@ Compound sentence চেনার সহজ উপায়:
 ### 19. Besides being rich, he is generous. ```→ He is rich and he is generous.```
 ### 20. He was too weak to move. ```→ He was weak and so he could not move.```
 ---
-
+### 21. Being ill, he stayed at home. ```→ He was ill and so he stayed at home.```
+### 22. In spite of his failure, he did not lose hope. ```→ He failed but he did not lose hope.```
+### 23. Working hard, they won the match. ```→ They worked hard and so they won the match.```
+### 24. Without saving money, you cannot be secure. ```→ Save money or you cannot be secure.```
+### 25. Seeing the storm, the fishermen returned. ```→ The fishermen saw the storm and returned.```
+### 26. In spite of his injury, he played well. ```→ He was injured but he played well.```
+### 27. Being truthful, he is loved by all. ```→ He is truthful and so all love him.```
+### 28. To confess the truth, he was ashamed. ```→ He was ashamed but he confessed the truth.```
+### 29. Besides being talented, she is hardworking. ```→ She is talented and she is hardworking.```
+### 30. He was too tired to continue. ```→ He was tired and so he could not continue.```
 
 
 
