@@ -53,6 +53,15 @@ Interrogative বাক্য **দুই ধরনের** হয়:
 ### 19. He did the work carefully. ```→ Did he not do the work carefully?```
 ### 20. Life is full of struggles. ```→ Is not life full of struggles?```
 ---
-
+### 21. Everybody respects a truthful man. ```→ Who does not respect a truthful man?```
+### 22. We should help the poor. ```→ Should we not help the poor?```
+### 23. He always speaks the truth. ```→ Does he not always speak the truth?```
+### 24. All men desire peace. ```→ Who does not desire peace?```
+### 25. You can trust this man. ```→ Can you not trust this man?```
+### 26. He was very generous. ```→ Was he not very generous?```
+### 27. Everybody fears death. ```→ Who does not fear death?```
+### 28. We must obey the law. ```→ Must we not obey the law?```
+### 29. She sings beautifully. ```→ Does she not sing beautifully?```
+### 30. Life is full of struggle. ```→ Is not life full of struggle?```
 
 
