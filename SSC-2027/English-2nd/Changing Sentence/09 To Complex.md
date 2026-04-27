@@ -37,3 +37,45 @@ Complex sentence চেনার সহজ উপায়:
 
 
 ### ⚡ NonStop Practice 
+
+### 01. Being ill, he could not attend school. 
+### ```→ As he was ill, he could not attend school.```
+### 02. In spite of his poverty, he is honest. 
+### ```→ Though he is poor, he is honest.```
+### 03. Besides being intelligent, he is hardworking. 
+### ```→ Besides that he is intelligent, he is hardworking.```
+### 04. On seeing the police, the thief ran away. 
+### ```→ When the thief saw the police, he ran away.```
+### 05. Working hard, he succeeded. 
+### ```→ Because he worked hard, he succeeded.```
+### 06. He is too weak to walk. 
+### ```→ He is so weak that he cannot walk.```
+### 07. I know his address. 
+### ```→ I know where he lives.```
+### 08. Without working hard, you cannot succeed. 
+### ```→ If you do not work hard, you cannot succeed.```
+### 09. In spite of trying hard, he failed. 
+### ```→ Though he tried hard, he failed.```
+### 10. Seeing the tiger, the boy ran away. 
+### ```→ When the boy saw the tiger, he ran away.```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
