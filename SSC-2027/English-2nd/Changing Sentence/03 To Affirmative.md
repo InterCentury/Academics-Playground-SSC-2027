@@ -24,6 +24,7 @@ Affirmative বাক্যে কোনো **not** বা নেতিবাচ
 ### 08. He did not fail to help me. ```→ He helped me.```
 ### 09. I cannot but laugh. ```→ I laugh.```
 ### 10. You cannot help smiling. ```→ You smile.```
+---
 ### 11. He didn't remember me. ```→ He forgot me.```
 ### 12. He is not absent. ```→ He is present.```
 ### 13. I never drink coffee. ```→ I always avoid coffee.```
