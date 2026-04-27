@@ -42,3 +42,4 @@ Exclamatory বাক্য **দুটি সাধারণ কাঠামো
 ### 08. She looks very beautiful. ```→ How beautiful she looks!```
 ### 09. The moon is very bright tonight. ```→ How bright the moon is tonight!```
 ### 10. It is a very wonderful idea. ```→ What a wonderful idea it is!```
+---
