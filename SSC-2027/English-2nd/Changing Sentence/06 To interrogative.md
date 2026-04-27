@@ -63,5 +63,5 @@ Interrogative বাক্য **দুই ধরনের** হয়:
 ### 28. We must obey the law. ```→ Must we not obey the law?```
 ### 29. She sings beautifully. ```→ Does she not sing beautifully?```
 ### 30. Life is full of struggle. ```→ Is not life full of struggle?```
-
+---
 
