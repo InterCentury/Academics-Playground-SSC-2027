@@ -16,3 +16,9 @@ A *negative sentence* states that something is **false or not true**. It contain
 
 **Note:**  
 Negative বাক্যে **not, no, never, nobody, nothing, nowhere** ইত্যাদি নেতিবাচক শব্দ থাকবেই। যদি `not` থাকে, তাহলে সাধারণত auxiliary verb (do/does/did/is/am/are/was/were/have/has/will/can/may) এর পরে বসে – এটাই মূল চেনার উপায়।
+
+
+
+
+
+### ⚡ NonStop Practice 
