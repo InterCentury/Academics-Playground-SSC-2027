@@ -79,7 +79,7 @@ Complex sentence চেনার সহজ উপায়:
 ```→ Though he is old, he walks fast.```
 ### 20. Seeing the teacher, the boys stood up. 
 ```→ When the boys saw the teacher, they stood up.```
-
+---
 ### 21. He was ill and so he stayed at home. 
 ```→ As he was ill, he stayed at home.```
 ### 22. He is poor but he is honest. 
