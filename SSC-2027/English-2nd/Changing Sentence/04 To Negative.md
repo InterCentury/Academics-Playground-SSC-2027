@@ -33,6 +33,7 @@ Negative বাক্যে **not, no, never, nobody, nothing, nowhere** ইত�
 ### 08. He helped me. ```→ He did not fail to help me.```
 ### 09. I laugh. ```→ I cannot but laugh.```
 ### 10. You smile. ```→ You cannot but smile.```
+---
 ### 11. He is brave. ```→ He is not cowardly.```
 ### 12. Everyone respects him. ```→ No one disrespects him.```
 ### 13. She is always punctual. ```→ She is never late.```
@@ -43,6 +44,7 @@ Negative বাক্যে **not, no, never, nobody, nothing, nowhere** ইত�
 ### 18. I must obey my parents. ```→ I cannot but obey my parents.```
 ### 19. He was successful. ```→ He was not unsuccessful.```
 ### 20. She loves music. ```→ She does not dislike music.```
+---
 
 
 
