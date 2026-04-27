@@ -59,7 +59,16 @@ Complex sentence চেনার সহজ উপায়:
 ### 10. Seeing the tiger, the boy ran away. 
 ### ```→ When the boy saw the tiger, he ran away.```
 ----
-
+### 11. In spite of his weakness, he continued working. ```→ Though he was weak, he continued working.```
+### 12. Without reading attentively, you cannot learn well. ```→ If you do not read attentively, you cannot learn well.```
+### 13. Being tired, he took rest. ```→ As he was tired, he took rest.```
+### 14. In spite of his honesty, he was not trusted. ```→ Though he was honest, he was not trusted.```
+### 15. He is too poor to help others. ```→ He is so poor that he cannot help others.```
+### 16. On hearing the news, she began to cry. ```→ When she heard the news, she began to cry.```
+### 17. Working day and night, he became successful. ```→ Because he worked day and night, he became successful.```
+### 18. Without your help, I could not succeed. ```→ If you had not helped me, I could not have succeeded.```
+### 19. In spite of being old, he walks fast. ```→ Though he is old, he walks fast.```
+### 20. Seeing the teacher, the boys stood up. ```→ When the boys saw the teacher, they stood up.```
 
 
 
