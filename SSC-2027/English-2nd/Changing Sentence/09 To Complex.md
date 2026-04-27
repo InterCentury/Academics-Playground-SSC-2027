@@ -58,7 +58,7 @@ Complex sentence চেনার সহজ উপায়:
 ### ```→ Though he tried hard, he failed.```
 ### 10. Seeing the tiger, the boy ran away. 
 ### ```→ When the boy saw the tiger, he ran away.```
-
+----
 
 
 
