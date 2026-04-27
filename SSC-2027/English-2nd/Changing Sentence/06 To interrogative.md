@@ -25,3 +25,7 @@ Interrogative বাক্য **দুই ধরনের** হয়:
    উদাহরণ: *Where do you live?* (নির্দিষ্ট উত্তর চায়)
 
 **চেনার মূল চিহ্ন:** বাক্যের **শেষে প্রশ্নবোধক চিহ্ন ( ? )** থাকবেই। আর শুরুটা হয় interrogative word বা auxiliary verb দিয়ে – এটাই মূল চিহ্ন।
+
+
+
+### ⚡ NonStop Practice 
