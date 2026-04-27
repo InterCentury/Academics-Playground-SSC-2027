@@ -30,7 +30,7 @@ Interrogative বাক্য **দুই ধরনের** হয়:
 
 ### ⚡ NonStop Practice 
 
-### 01. He is a good boy. ```→ Is he not a good boy?```
+### 01. He is a good boy. ```→ Isn't he a good boy?```
 ### 02. She was very kind. ```→ Was she not very kind?```
 ### 03. We should help the poor. ```→ Should we not help the poor?```
 ### 04. Everybody wants success. ```→ Who does not want success?```
