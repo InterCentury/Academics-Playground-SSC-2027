@@ -60,47 +60,47 @@ Complex sentence চেনার সহজ উপায়:
 ### ```→ When the boy saw the tiger, he ran away.```
 ----
 ### 11. In spite of his weakness, he continued working. 
-```→ Though he was weak, he continued working.```
+### ```→ Though he was weak, he continued working.```
 ### 12. Without reading attentively, you cannot learn well. 
-```→ If you do not read attentively, you cannot learn well.```
+### ```→ If you do not read attentively, you cannot learn well.```
 ### 13. Being tired, he took rest. 
-```→ As he was tired, he took rest.```
+### ```→ As he was tired, he took rest.```
 ### 14. In spite of his honesty, he was not trusted. 
-```→ Though he was honest, he was not trusted.```
+### ```→ Though he was honest, he was not trusted.```
 ### 15. He is too poor to help others. 
-```→ He is so poor that he cannot help others.```
+### ```→ He is so poor that he cannot help others.```
 ### 16. On hearing the news, she began to cry. 
-```→ When she heard the news, she began to cry.```
+### ```→ When she heard the news, she began to cry.```
 ### 17. Working day and night, he became successful. 
-```→ Because he worked day and night, he became successful.```
+### ```→ Because he worked day and night, he became successful.```
 ### 18. Without your help, I could not succeed. 
-```→ If you had not helped me, I could not have succeeded.```
+### ```→ If you had not helped me, I could not have succeeded.```
 ### 19. In spite of being old, he walks fast. 
-```→ Though he is old, he walks fast.```
+### ```→ Though he is old, he walks fast.```
 ### 20. Seeing the teacher, the boys stood up. 
-```→ When the boys saw the teacher, they stood up.```
+### ```→ When the boys saw the teacher, they stood up.```
 
 ---
 ### 21. He was ill and so he stayed at home. 
-```→ As he was ill, he stayed at home.```
+### ```→ As he was ill, he stayed at home.```
 ### 22. He is poor but he is honest. 
-```→ Though he is poor, he is honest.```
+### ```→ Though he is poor, he is honest.```
 ### 23. She worked hard and so she passed the exam. 
-```→ Because she worked hard, she passed the exam.```
+### ```→ Because she worked hard, she passed the exam.```
 ### 24. Work hard or you will fail. 
-```→ If you do not work hard, you will fail.```
+### ```→ If you do not work hard, you will fail.```
 ### 25. The fishermen saw the storm and returned. 
-```→ When the fishermen saw the storm, they returned.```
+### ```→ When the fishermen saw the storm, they returned.```
 ### 26. He was injured but he played well. 
-```→ Though he was injured, he played well.```
+### ```→ Though he was injured, he played well.```
 ### 27. He is truthful and so all love him. 
-```→ Because he is truthful, all love him.```
+### ```→ Because he is truthful, all love him.```
 ### 28. He was ashamed but he confessed the truth. 
-```→ Though he was ashamed, he confessed the truth.```
+### ```→ Though he was ashamed, he confessed the truth.```
 ### 29. She is talented and she is hardworking. 
-```→ Besides being talented, she is hardworking.```
+### ```→ Besides being talented, she is hardworking.```
 ### 30. He was tired and so he could not continue. 
-```→ Because he was tired, he could not continue.```
+### ```→ Because he was tired, he could not continue.```
 
 
 
