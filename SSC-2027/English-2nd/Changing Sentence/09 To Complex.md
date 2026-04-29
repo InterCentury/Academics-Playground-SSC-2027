@@ -102,16 +102,26 @@ Complex sentence চেনার সহজ উপায়:
 ### 30. He was tired and so he could not continue. 
 ### ```→ Because he was tired, he could not continue.```
 ---
-### 31. He was hungry and so he ate quickly. ```→ As he was hungry, he ate quickly.```
-### 32. She is poor but she is honest. ```→ Though she is poor, she is honest.```
-### 33. They worked sincerely and so they succeeded. ```→ Because they worked sincerely, they succeeded.```
-### 34. Study hard or you will fail. ```→ If you do not study hard, you will fail.```
-### 35. The boy saw the dog and ran away. ```→ When the boy saw the dog, he ran away.```
-### 36. He was weak but he finished the work. ```→ Though he was weak, he finished the work.```
-### 37. She is kind and so everyone loves her. ```→ Because she is kind, everyone loves her.```
-### 38. He was poor but he helped others. ```→ Though he was poor, he helped others.```
-### 39. The sun rose and the birds started singing. ```→ When the sun rose, the birds started singing.```
-### 40. He was tired and so he went to bed. ```→ Because he was tired, he went to bed.```
+### 31. He was hungry and so he ate quickly. 
+```→ As he was hungry, he ate quickly.```
+### 32. She is poor but she is honest. 
+```→ Though she is poor, she is honest.```
+### 33. They worked sincerely and so they succeeded. 
+```→ Because they worked sincerely, they succeeded.```
+### 34. Study hard or you will fail. 
+```→ If you do not study hard, you will fail.```
+### 35. The boy saw the dog and ran away. 
+```→ When the boy saw the dog, he ran away.```
+### 36. He was weak but he finished the work. 
+```→ Though he was weak, he finished the work.```
+### 37. She is kind and so everyone loves her. 
+```→ Because she is kind, everyone loves her.```
+### 38. He was poor but he helped others. 
+```→ Though he was poor, he helped others.```
+### 39. The sun rose and the birds started singing. 
+```→ When the sun rose, the birds started singing.```
+### 40. He was tired and so he went to bed. 
+```→ Because he was tired, he went to bed.```
 
 
 
