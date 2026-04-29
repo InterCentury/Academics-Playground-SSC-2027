@@ -74,3 +74,4 @@ Interrogative বাক্য **দুই ধরনের** হয়:
 ### 38. Everyone admires honesty. ```→ Who does not admire honesty?```
 ### 39. We cannot live without water. ```→ Can we live without water?```
 ### 40. He was very kind. ```→ Was he not very kind?```
+---
