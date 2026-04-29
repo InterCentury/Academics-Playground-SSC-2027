@@ -44,7 +44,16 @@ Simple sentence চেনার সহজ উপায়:
 ### 09. As he was tired, he went to bed. ```→ Being tired, he went to bed.```
 ### 10. Though he was ill, he attended class. ```→ In spite of his illness, he attended class.```
 ---
-
+### 11. When the bell rang, the students left the class. ```→ On hearing the bell, the students left the class.```
+### 12. Though he was rich, he was unhappy. ```→ In spite of his richness, he was unhappy.```
+### 13. As she was tired, she went to bed. ```→ Being tired, she went to bed.```
+### 14. When he saw the snake, he ran away. ```→ Seeing the snake, he ran away.```
+### 15. Because he worked hard, he succeeded. ```→ Working hard, he succeeded.```
+### 16. Though he was weak, he continued his work. ```→ In spite of his weakness, he continued his work.```
+### 17. If you do not obey the rules, you will be punished. ```→ Without obeying the rules, you will be punished.```
+### 18. As he was ill, he could not attend school. ```→ Being ill, he could not attend school.```
+### 19. When the teacher entered, the boys stood up. ```→ On entering the class, the teacher, the boys stood up.```
+### 20. Though she was poor, she was honest. ```→ In spite of her poverty, she was honest.```
 
 
 
