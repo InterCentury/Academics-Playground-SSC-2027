@@ -56,7 +56,7 @@ Negative বাক্যে **not, no, never, nobody, nothing, nowhere** ইত�
 ### 28. We must follow the rules. ```→ We cannot but follow the rules.```
 ### 29. He was fortunate. ```→ He was not unfortunate.```
 ### 30. She likes reading books. ```→ She does not dislike reading books.```
-
+---
 ### 31. He is happy. ```→ He is not unhappy.```
 ### 32. Everyone knows the answer. ```→ No one does not know the answer.```
 ### 33. She always helps the poor. ```→ She never neglects the poor.```
