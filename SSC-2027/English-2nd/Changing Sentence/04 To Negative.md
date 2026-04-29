@@ -57,7 +57,16 @@ Negative বাক্যে **not, no, never, nobody, nothing, nowhere** ইত�
 ### 29. He was fortunate. ```→ He was not unfortunate.```
 ### 30. She likes reading books. ```→ She does not dislike reading books.```
 
-
+### 31. He is happy. ```→ He is not unhappy.```
+### 32. Everyone knows the answer. ```→ No one does not know the answer.```
+### 33. She always helps the poor. ```→ She never neglects the poor.```
+### 34. All birds can fly. ```→ There is no bird that cannot fly.```
+### 35. Only the honest are respected. ```→ None but the honest are respected.```
+### 36. He remembers his duties. ```→ He forgets nothing about his duties.```
+### 37. Both girls were present. ```→ Neither of the girls was absent.```
+### 38. We should respect our elders. ```→ We cannot but respect our elders.```
+### 39. He was lucky. ```→ He was not unlucky.```
+### 40. She loves her country. ```→ She does not hate her country.```
 
 
 
