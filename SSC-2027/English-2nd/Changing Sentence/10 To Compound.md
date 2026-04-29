@@ -80,7 +80,16 @@ Compound sentence চেনার সহজ উপায়:
 ### 29. Besides being talented, she is hardworking. ```→ She is talented and she is hardworking.```
 ### 30. He was too tired to continue. ```→ He was tired and so he could not continue.```
 ---
-
+### 31. As he was hungry, he ate quickly. ```→ He was hungry and so he ate quickly.```
+### 32. Though she is poor, she is honest. ```→ She is poor but she is honest.```
+### 33. Because they worked sincerely, they succeeded. ```→ They worked sincerely and so they succeeded.```
+### 34. If you do not study hard, you will fail. ```→ Study hard or you will fail.```
+### 35. When the boy saw the dog, he ran away. ```→ The boy saw the dog and ran away.```
+### 36. Though he was weak, he finished the work. ```→ He was weak but he finished the work.```
+### 37. Because she is kind, everyone loves her. ```→ She is kind and so everyone loves her.```
+### 38. Though he was poor, he helped others. ```→ He was poor but he helped others.```
+### 39. When the sun rose, the birds started singing. ```→ The sun rose and the birds started singing.```
+### 40. Because he was tired, he went to bed. ```→ He was tired and so he went to bed.```
 
 
 
