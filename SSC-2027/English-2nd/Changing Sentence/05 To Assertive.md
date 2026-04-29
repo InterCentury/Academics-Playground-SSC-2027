@@ -59,7 +59,7 @@ Assertive বাক্য **দুই ধরনের** হয়:
 ### 28. Is not the sky blue? ```→ The sky is blue.```
 ### 29. Can anyone avoid death? ```→ No one can avoid death.```
 ### 30. Shall we neglect our studies? ```→ We shall not neglect our studies.```
-
+---
 
 
 
