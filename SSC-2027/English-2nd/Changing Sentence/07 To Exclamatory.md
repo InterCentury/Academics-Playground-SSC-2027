@@ -43,3 +43,17 @@ Exclamatory বাক্য **দুটি সাধারণ কাঠামো
 ### 09. The moon is very bright tonight. ```→ How bright the moon is tonight!```
 ### 10. It is a very wonderful idea. ```→ What a wonderful idea it is!```
 ---
+### 11. It is a very beautiful garden. ```→ What a beautiful garden it is!```
+### 12. She is very intelligent. ```→ How intelligent she is!```
+### 13. The day is very pleasant. ```→ What a pleasant day it is!```
+### 14. He is very strong. ```→ How strong he is!```
+### 15. It is a very amazing story. ```→ What an amazing story it is!```
+### 16. The girl is very clever. ```→ How clever the girl is!```
+### 17. It is a very horrible scene. ```→ What a horrible scene it is!```
+### 18. She looks very beautiful. ```→ How beautiful she looks!```
+### 19. The stars are very bright tonight. ```→ How bright the stars are tonight!```
+### 20. It is a very exciting match. ```→ What an exciting match it is!```
+
+
+
+
