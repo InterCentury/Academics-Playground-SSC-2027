@@ -38,6 +38,40 @@ Assertive বাক্য **দুই ধরনের** হয়:
 ### 09. Shall we forget our martyrs? ```→ We shall never forget our martyrs.```
 ### 10. Is not time very valuable? ```→ Time is very valuable.```
 ----
+### 11. Who does not respect elders? ```→ Everyone respects elders.```
+### 12. Can anyone solve this problem? ```→ No one can solve this problem.```
+### 13. Is he not your friend? ```→ He is your friend.```
+### 14. Who does not like sweets? ```→ Everyone likes sweets.```
+### 15. Can we ignore our duties? ```→ We cannot ignore our duties.```
+### 16. Was she not happy there? ```→ She was happy there.```
+### 17. Who does not fear death? ```→ Everyone fears death.```
+### 18. Is not the earth round? ```→ The earth is round.```
+### 19. Can anyone avoid death? ```→ No one can avoid death.```
+### 20. Shall we disobey our parents? ```→ We shall not disobey our parents.```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
