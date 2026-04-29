@@ -49,7 +49,16 @@ Assertive বাক্য **দুই ধরনের** হয়:
 ### 19. Can anyone avoid death? ```→ No one can avoid death.```
 ### 20. Shall we disobey our parents? ```→ We shall not disobey our parents.```
 ---
-
+### 21. Who does not want peace? ```→ Everyone wants peace.```
+### 22. Can anyone ignore the truth? ```→ No one can ignore the truth.```
+### 23. Is he not your brother? ```→ He is your brother.```
+### 24. Who does not like flowers? ```→ Everyone likes flowers.```
+### 25. Can we forget our duty? ```→ We cannot forget our duty.```
+### 26. Was he not happy there? ```→ He was happy there.```
+### 27. Who does not know him? ```→ Everyone knows him.```
+### 28. Is not the sky blue? ```→ The sky is blue.```
+### 29. Can anyone avoid death? ```→ No one can avoid death.```
+### 30. Shall we neglect our studies? ```→ We shall not neglect our studies.```
 
 
 
