@@ -48,7 +48,7 @@ Assertive বাক্য **দুই ধরনের** হয়:
 ### 18. Is not the earth round? ```→ The earth is round.```
 ### 19. Can anyone avoid death? ```→ No one can avoid death.```
 ### 20. Shall we disobey our parents? ```→ We shall not disobey our parents.```
-
+---
 
 
 
