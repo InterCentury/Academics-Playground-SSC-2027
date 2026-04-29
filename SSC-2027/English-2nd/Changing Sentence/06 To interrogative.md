@@ -64,4 +64,13 @@ Interrogative বাক্য **দুই ধরনের** হয়:
 ### 29. She sings beautifully. ```→ Does she not sing beautifully?```
 ### 30. Life is full of struggle. ```→ Is not life full of struggle?```
 ---
-
+### 31. Everyone knows the truth. ```→ Who does not know the truth?```
+### 32. He is your best friend. ```→ Is he not your best friend?```
+### 33. Nobody can solve this problem. ```→ Can anyone solve this problem?```
+### 34. All men love freedom. ```→ Who does not love freedom?```
+### 35. She is very intelligent. ```→ Is she not very intelligent?```
+### 36. We should respect our teachers. ```→ Should we not respect our teachers?```
+### 37. He always helps the poor. ```→ Does he not always help the poor?```
+### 38. Everyone admires honesty. ```→ Who does not admire honesty?```
+### 39. We cannot live without water. ```→ Can we live without water?```
+### 40. He was very kind. ```→ Was he not very kind?```
