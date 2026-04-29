@@ -90,7 +90,7 @@ Compound sentence চেনার সহজ উপায়:
 ### 38. Though he was poor, he helped others. ```→ He was poor but he helped others.```
 ### 39. When the sun rose, the birds started singing. ```→ The sun rose and the birds started singing.```
 ### 40. Because he was tired, he went to bed. ```→ He was tired and so he went to bed.```
-
+---
 
 
 
