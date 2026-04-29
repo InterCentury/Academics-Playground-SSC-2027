@@ -46,7 +46,7 @@ Affirmative বাক্যে কোনো **not** বা নেতিবাচ
 ### 28. He never tells a lie. ```→ He always tells the truth.```
 ### 29. No one can deny this. ```→ Everyone can admit this.```
 ### 30. She does not dislike flowers. ```→ She likes flowers.```
-
+---
 ### 31. He is not sad. ```→ He is happy.```
 ### 32. Nobody ignores the rules. ```→ Everybody follows the rules.```
 ### 33. She never wastes time. ```→ She always uses time properly.```
