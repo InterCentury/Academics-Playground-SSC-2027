@@ -101,7 +101,7 @@ Complex sentence চেনার সহজ উপায়:
 ### ```→ Besides being talented, she is hardworking.```
 ### 30. He was tired and so he could not continue. 
 ### ```→ Because he was tired, he could not continue.```
-
+---
 
 
 
