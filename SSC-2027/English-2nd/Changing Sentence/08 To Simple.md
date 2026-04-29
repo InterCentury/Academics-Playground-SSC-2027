@@ -54,7 +54,7 @@ Simple sentence চেনার সহজ উপায়:
 ### 18. As he was ill, he could not attend school. ```→ Being ill, he could not attend school.```
 ### 19. When the teacher entered, the boys stood up. ```→ On entering the class, the teacher, the boys stood up.```
 ### 20. Though she was poor, she was honest. ```→ In spite of her poverty, she was honest.```
-
+---
 
 
 
