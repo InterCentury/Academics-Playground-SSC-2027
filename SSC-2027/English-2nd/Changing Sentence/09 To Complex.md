@@ -122,7 +122,7 @@ Complex sentence চেনার সহজ উপায়:
 ```→ When the sun rose, the birds started singing.```
 ### 40. He was tired and so he went to bed. 
 ```→ Because he was tired, he went to bed.```
-
+---
 
 
 
