@@ -46,3 +46,14 @@ Affirmative বাক্যে কোনো **not** বা নেতিবাচ
 ### 28. He never tells a lie. ```→ He always tells the truth.```
 ### 29. No one can deny this. ```→ Everyone can admit this.```
 ### 30. She does not dislike flowers. ```→ She likes flowers.```
+
+### 31. He is not sad. ```→ He is happy.```
+### 32. Nobody ignores the rules. ```→ Everybody follows the rules.```
+### 33. She never wastes time. ```→ She always uses time properly.```
+### 34. No student failed the exam. ```→ All students passed the exam.```
+### 35. He is not weak. ```→ He is strong.```
+### 36. None but the wise can solve this problem. ```→ Only the wise can solve this problem.```
+### 37. I cannot but respect him. ```→ I respect him.```
+### 38. He does not hate his country. ```→ He loves his country.```
+### 39. There is no place like home. ```→ Home is the best place.```
+### 40. She does not dislike music. ```→ She likes music.```
