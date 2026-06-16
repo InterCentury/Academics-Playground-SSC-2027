@@ -164,8 +164,7 @@
 13. মোবাইলের অপকারিতা।
 14. সচেতন ব্যবহার।
 15. আধুনিক জীবনে গুরুত্ব।
+```
+ ## Exam hack: For any Bangla অনুচ্ছেদ, remember:
 
-💡 Exam hack: For any Bangla অনুচ্ছেদ, remember:
 **১. পরিচয় → ২. অবস্থান/সংজ্ঞা → ৩. বৈশিষ্ট্য → ৪. উপকারিতা → ৫. গুরুত্ব → ৬. উপসংহার**
-
-This structure alone can help you write almost any SSC-level paragraph confidently. 🍀📚
