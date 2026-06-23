@@ -13,7 +13,7 @@ A **traffic jam** is a common problem in cities and towns. It happens when many 
 
 ```
 
----
+
 
 ## 2. A Day Labourer
 
@@ -28,7 +28,7 @@ A **day labourer** is a person who works hard every day to earn money. He usuall
 6. How should we treat him? 
 7. Conclusion.
 ```
----
+
 
 ## 3. Tree Plantation
 
@@ -54,7 +54,7 @@ A **winter morning** is calm, cold, and beautiful. In Bangladesh, winter usually
 5. What special foods and attractions are found in winter? 
 6. Conclusion.
 ```
----
+
 
 ## 5. A Rainy Day
 
@@ -68,7 +68,7 @@ A **rainy day** is a day when it rains for a long time. It is common during the 
 5. What problems does heavy rain cause? 
 6. Conclusion.
 ```
----
+
 
 ## 6. A Tea Stall
 
