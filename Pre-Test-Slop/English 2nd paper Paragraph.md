@@ -60,6 +60,14 @@ A **winter morning** is calm, cold, and beautiful. In Bangladesh, winter usually
 
 A **rainy day** is a day when it rains for a long time. It is common during the **rainy season** in Bangladesh. On such a day, the sky remains cloudy, and the sun is rarely seen. Roads become wet and muddy, making it difficult for people to travel. Students often go to school with **umbrellas** or raincoats. Farmers are happy because rain is very helpful for crops. Children also enjoy playing in the rain, although they may catch a cold. Sometimes heavy rain causes **waterlogging** and traffic problems in cities. Boats become an important means of transport in many rural areas. A rainy day brings freshness to nature. Trees and plants look green and healthy after rainfall. Although a rainy day causes some inconvenience, it is very important for agriculture and the environment. Therefore, rain is a blessing for our country.
 
+```
+1. What is a rainy day? 
+2. What is the weather like on a rainy day? 
+3. How does it affect people's daily life? 
+4. Why is it important for farmers and nature? 
+5. What problems does heavy rain cause? 
+6. Conclusion.
+```
 ---
 
 ## 6. A Tea Stall
