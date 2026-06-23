@@ -73,3 +73,13 @@ A **rainy day** is a day when it rains for a long time. It is common during the 
 ## 6. A Tea Stall
 
 A **tea stall** is a small and popular shop where people drink tea and spend their free time. It is usually found near **markets**, bus stands, schools, offices, or village roads. A tea stall owner sells tea, coffee, biscuits, bread, cakes, bananas, and other light snacks. Many people visit a tea stall every day to relax, meet friends, or discuss current events. Some people also read newspapers while drinking tea. The tea stall becomes crowded in the morning and evening. It is an important meeting place for people from different professions. However, students should not waste too much time there because it may affect their studies. A tea stall also provides a small source of income for its owner. **It is an important part of daily life** in both villages and cities.
+
+```
+1. What is a tea stall? 
+2. Where is it usually found? 
+3. What does a tea stall sell? 
+4. Who visits a tea stall and why? 
+5. Why is a tea stall important? 
+6. What should students remember about tea stalls? 
+7. Conclusion.
+```
