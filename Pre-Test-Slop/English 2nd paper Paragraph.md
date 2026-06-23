@@ -46,6 +46,14 @@ A **day labourer** is a person who works hard every day to earn money. He usuall
 
 A **winter morning** is calm, cold, and beautiful. In Bangladesh, winter usually comes after the rainy season. On a winter morning, the weather is very cold, and there is often **thick fog**. Sometimes the sun cannot be seen until late in the morning. People wear **warm clothes** like sweaters, jackets, and shawls to protect themselves from the cold. Poor people suffer because they do not have enough warm clothing. Children and old people stay close to fires to keep warm. Farmers begin their work after the fog disappears. Date juice and different kinds of **pitha** are popular during winter. Birds fly in the clear sky after sunrise, and everything looks fresh and peaceful. A winter morning is enjoyable for many people, although it creates difficulties for the poor. It is one of the most beautiful parts of the winter season.
 
+```
+1. What is a winter morning? 
+2. What is the weather like? 
+3. How do people spend a winter morning? 
+4. What problems do poor people face? 
+5. What special foods and attractions are found in winter? 
+6. Conclusion.
+```
 ---
 
 ## 5. A Rainy Day
