@@ -1,6 +1,6 @@
 
 
-## a) Application for Permission to Go on a Study Tour
+### a) Application for Permission to Go on a Study Tour
 
 ```
 To,
@@ -33,9 +33,9 @@ Dhaka Government High School
 Dhaka
 ```
 
----
 
-## b) Application for Increasing Common Room Facilities
+
+### b) Application for Increasing Common Room Facilities
 
 ```
 To,
@@ -70,9 +70,9 @@ Rajshahi Collegiate School
 Rajshahi
 ```
 
----
 
-## c) Application for Financial Help
+
+### c) Application for Financial Help
 
 ```
 To,
@@ -105,9 +105,9 @@ Chittagong Collegiate School
 Chittagong
 ```
 
----
 
-## d) Application for Setting Up a Computer Club
+
+### d) Application for Setting Up a Computer Club
 
 ```
 To,
@@ -145,9 +145,9 @@ Barisal Zilla School
 Barisal
 ```
 
----
 
-## e) Application for Testimonial
+
+### e) Application for Testimonial
 
 ```
 To,
@@ -181,9 +181,9 @@ Khulna Collegiate School
 Khulna
 ```
 
----
 
-## f) Application for Opening a Canteen
+
+### f) Application for Opening a Canteen
 
 ```
 To,
