@@ -161,11 +161,18 @@ Dear Sir,
 
 With due respect, I beg to draw your kind attention to the following matter.
 
-I am a student of Class X of your esteemed school. My name is Md. Rakib Hossain and my roll number is 20. I have completed my Secondary School Certificate (SSC) examination from your school this year. I was a student of your school for the last six years.
+I am a student of Class X of your esteemed school. My name is Md. Rakib 
+Hossain and my roll number is 20. I have completed my Secondary School 
+Certificate (SSC) examination from your school this year. I was a student 
+of your school for the last six years.
 
-I have always been a sincere and hardworking student. My academic record is good, and I have participated in many extracurricular activities. My teachers have always guided and supported me. Now I need a testimonial for admission to a higher secondary college.
+I have always been a sincere and hardworking student. My academic record is good, 
+and I have participated in many extracurricular activities. My teachers have always 
+guided and supported me. Now I need a testimonial for admission to a higher secondary college.
 
-I, therefore, pray and hope that you would kindly issue me a testimonial mentioning my character, conduct, and academic performance. I also request you to provide a copy of my school leaving certificate.
+I, therefore, pray and hope that you would kindly issue me a testimonial mentioning 
+my character, conduct, and academic performance. I also request you to provide a 
+copy of my school leaving certificate.
 
 Yours obediently,
 Md. Rakib Hossain
