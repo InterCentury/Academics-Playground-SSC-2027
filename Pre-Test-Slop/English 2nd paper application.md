@@ -47,13 +47,22 @@ Subject: Prayer for increasing common room facilities.
 
 Dear Sir,
 
-With due respect, I, on behalf of the students of your school, beg to draw your kind attention to the following problem.
+With due respect, I, on behalf of the students of your school, beg to 
+draw your kind attention to the following problem.
 
-We have a common room in our school, but it is very small and poorly equipped. There are not enough chairs and tables for all the students. The room does not have proper lighting and ventilation. The fans are old and do not work properly. There are no indoor games like carrom, chess, or table tennis for our recreation. The newspapers and magazines are not updated regularly.
+We have a common room in our school, but it is very small and poorly equipped. 
+There are not enough chairs and tables for all the students. The room does not
+have proper lighting and ventilation. The fans are old and do not work properly. 
+There are no indoor games like carrom, chess, or table tennis for our recreation. 
+The newspapers and magazines are not updated regularly.
 
-During the break, the common room becomes overcrowded, and students cannot sit comfortably. Many students stay outside in the sun or rain because there is no space inside. This situation is very disappointing for us.
+During the break, the common room becomes overcrowded, and students cannot sit 
+comfortably. Many students stay outside in the sun or rain because there is no 
+space inside. This situation is very disappointing for us.
 
-We, therefore, pray and hope that you would kindly take necessary steps to increase the common room facilities. We request you to provide more furniture, fans, lights, indoor games, and updated reading materials.
+We, therefore, pray and hope that you would kindly take necessary steps to increase 
+the common room facilities. We request you to provide more furniture, fans, lights, 
+indoor games, and updated reading materials.
 
 Yours obediently,
 The Students of Your School
@@ -77,11 +86,17 @@ Dear Sir,
 
 With due respect, I beg to draw your kind attention to the following matter.
 
-I am a student of Class IX in your esteemed school. My name is Md. Kamal Hossain and my roll number is 15. I come from a very poor family. My father is a day labourer and his income is very low. He cannot afford my educational expenses. I have three younger siblings who also need food and education.
+I am a student of Class IX in your esteemed school. My name is Md. Kamal 
+Hossain and my roll number is 15. I come from a very poor family. My father 
+is a day labourer and his income is very low. He cannot afford my educational 
+expenses. I have three younger siblings who also need food and education.
 
-I am a good student and always secure good marks in examinations. But now I am facing great difficulty in continuing my studies due to financial problems. My school fees, book costs, and other expenses are becoming too heavy for my father.
+I am a good student and always secure good marks in examinations. But now 
+I am facing great difficulty in continuing my studies due to financial problems. 
+My school fees, book costs, and other expenses are becoming too heavy for my father.
 
-I, therefore, pray and hope that you would kindly grant me financial help or a full free studentship so that I can continue my studies without any interruption.
+I, therefore, pray and hope that you would kindly grant me financial help or a full 
+free studentship so that I can continue my studies without any interruption.
 
 Yours obediently,
 Md. Kamal Hossain
