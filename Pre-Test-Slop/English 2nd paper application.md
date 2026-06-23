@@ -195,13 +195,21 @@ Subject: Prayer for opening a canteen.
 
 Dear Sir,
 
-With due respect, I, on behalf of the students of your school, beg to draw your kind attention to the following matter.
+With due respect, I, on behalf of the students of your school, 
+beg to draw your kind attention to the following matter.
 
-Our school does not have a canteen. Most students come to school early in the morning and stay until noon. Many students have to remain hungry because there is no place to buy food. Some students bring tiffin from home, but it is not enough for everyone.
+Our school does not have a canteen. Most students come to school early 
+in the morning and stay until noon. Many students have to remain hungry 
+because there is no place to buy food. Some students bring tiffin from home, 
+but it is not enough for everyone.
 
-A school canteen is very necessary for the students. It can provide clean, fresh, and healthy food at a reasonable price. It will also save our time because we will not need to go outside to buy food. We can also have snacks and drinks during the break. The canteen can be managed by the school authority or a contractor.
+A school canteen is very necessary for the students. It can provide clean, fresh, 
+and healthy food at a reasonable price. It will also save our time because we will 
+not need to go outside to buy food. We can also have snacks and drinks during the 
+break. The canteen can be managed by the school authority or a contractor.
 
-We, therefore, pray and hope that you would kindly take necessary steps to open a canteen in our school for the benefit of all students.
+We, therefore, pray and hope that you would kindly take necessary steps to open a 
+canteen in our school for the benefit of all students.
 
 Yours obediently,
 The Students of Your School
