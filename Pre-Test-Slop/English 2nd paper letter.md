@@ -1,4 +1,4 @@
-## a) Letter Thanking Your Friend for the Birthday Gift
+### a) Letter Thanking Your Friend for the Birthday Gift
 
 ```
 Dear Rahim,
@@ -19,7 +19,7 @@ Kamal
 
 ---
 
-## b) Letter Describing the Picnic/Study Tour You Have Enjoyed
+### b) Letter Describing the Picnic/Study Tour You Have Enjoyed
 
 ```
 Dear Hasan,
@@ -38,7 +38,7 @@ Shuvo
 
 ---
 
-## c) Letter Telling Your Friend What You Intend to Do After the SSC Examination
+### c) Letter Telling Your Friend What You Intend to Do After the SSC Examination
 
 ```
 Dear Arif,
@@ -59,7 +59,7 @@ Rafiq
 
 ---
 
-## d) Letter About Importance of Learning English
+### d) Letter About Importance of Learning English
 
 ```
 Dear Sumon,
@@ -80,7 +80,7 @@ Jahid
 
 ---
 
-## e) Letter Thanking Friend for His Hospitality
+### e) Letter Thanking Friend for His Hospitality
 
 ```
 Dear Pavel,
@@ -99,7 +99,7 @@ Rana
 
 ---
 
-## f) Letter Describing Prize Giving Ceremony
+### f) Letter Describing Prize Giving Ceremony
 
 ```
 Dear Tarek,
