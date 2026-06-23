@@ -1,4 +1,4 @@
-# Paragraphs for SSC English 2nd Paper
+
 
 ## 1. Traffic Jam
 
