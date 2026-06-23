@@ -119,15 +119,25 @@ Subject: Prayer for setting up a computer club.
 
 Dear Sir,
 
-With due respect, I, on behalf of the students of your school, beg to draw your kind attention to the following matter.
+With due respect, I, on behalf of the students of your school, 
+beg to draw your kind attention to the following matter.
 
-We are living in the age of modern technology. Computer knowledge is essential for success in education and career. Unfortunately, our school does not have a computer club where students can learn about computers and technology.
+We are living in the age of modern technology. Computer knowledge is 
+essential for success in education and career. Unfortunately, our school 
+does not have a computer club where students can learn about computers 
+and technology.
 
-We have many students who are interested in learning computer programming, graphic design, and other digital skills. A computer club will help us gain practical knowledge about computers. It will also help us prepare for future careers in the IT sector. We can learn from each other and share our knowledge.
+We have many students who are interested in learning computer programming, 
+graphic design, and other digital skills. A computer club will help us gain 
+practical knowledge about computers. It will also help us prepare for future 
+careers in the IT sector. We can learn from each other and share our knowledge.
 
-We have some computers in the school, but they are not well-organized for learning purposes. We request you to set up a proper computer club with necessary equipment, internet facilities, and a qualified teacher.
+We have some computers in the school, but they are not well-organized for 
+learning purposes. We request you to set up a proper computer club with 
+necessary equipment, internet facilities, and a qualified teacher.
 
-We, therefore, pray and hope that you would kindly take steps to set up a computer club in our school and oblige us thereby.
+We, therefore, pray and hope that you would kindly take steps to set up a 
+computer club in our school and oblige us thereby.
 
 Yours obediently,
 The Students of Your School
