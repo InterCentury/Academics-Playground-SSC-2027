@@ -19,6 +19,15 @@ A **traffic jam** is a common problem in cities and towns. It happens when many 
 
 A **day labourer** is a person who works hard every day to earn money. He usually works in **construction sites**, fields, markets, or factories. His work is mostly physical and very difficult. He carries heavy loads, digs soil, or helps in building houses. A day labourer starts work early in the morning and returns home in the evening. His income is **very low**, and sometimes he cannot find work every day. As a result, he and his family often face many hardships. Even though his life is difficult, he remains **honest**, **hardworking**, and **patient**. He plays an important role in the development of the country because many important jobs depend on his labour. We should respect day labourers and ensure they receive **fair wages** and better working conditions. Their contribution to society is very valuable.
 
+```
+1. Who is a day labourer? 
+2. Where does he work? 
+3. What kind of work does he do? 
+4. What problems does he face? 
+5. Why is he important to society? 
+6. How should we treat him? 
+7. Conclusion.
+```
 ---
 
 ## 3. Tree Plantation
