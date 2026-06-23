@@ -1,6 +1,4 @@
-Perfect! Here are all 6 applications following your exact format:
 
----
 
 ## a) Application for Permission to Go on a Study Tour
 
@@ -172,6 +170,4 @@ Sylhet Government High School
 Sylhet
 ```
 
----
 
-Let me know if you need any changes or more applications! 😊
