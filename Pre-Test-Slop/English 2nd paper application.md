@@ -12,13 +12,20 @@ Subject: Prayer for permission to go on a study tour.
 
 Dear Sir,
 
-With due respect, I, on behalf of the students of Class X, beg to draw your kind attention to the following matter.
+With due respect, I, on behalf of the students of Class X, beg to draw your 
+kind attention to the following matter.
 
-We are the students of Class X of your esteemed school. We have completed our syllabus and our final examination is near. We believe that a study tour will help us gain practical knowledge about the places we have studied in our Geography and History books. It will also help us reduce our study stress.
+We are the students of Class X of your esteemed school. We have completed our 
+syllabus and our final examination is near. We believe that a study tour will 
+help us gain practical knowledge about the places we have studied in our 
+Geography and History books. It will also help us reduce our study stress.
 
-We have decided to visit Cox's Bazar, the longest natural sea beach in the world. We have already arranged our transport and food. We will be accompanied by our class teachers. The tour will be for two days. We will bear all our expenses.
+We have decided to visit Cox's Bazar, the longest natural sea beach in the 
+world. We have already arranged our transport and food. We will be accompanied 
+by our class teachers. The tour will be for two days. We will bear all our expenses.
 
-We, therefore, pray and hope that you would kindly grant us permission to go on the study tour and oblige us thereby.
+We, therefore, pray and hope that you would kindly grant us permission to go 
+on the study tour and oblige us thereby.
 
 Yours obediently,
 The Students of Class X
