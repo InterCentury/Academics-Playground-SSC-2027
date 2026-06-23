@@ -17,7 +17,7 @@ Your loving friend,
 Kamal
 ```
 
----
+
 
 ### b) Letter Describing the Picnic/Study Tour You Have Enjoyed
 
@@ -36,7 +36,7 @@ Your friend,
 Shuvo
 ```
 
----
+
 
 ### c) Letter Telling Your Friend What You Intend to Do After the SSC Examination
 
@@ -57,7 +57,7 @@ Your friend,
 Rafiq
 ```
 
----
+
 
 ### d) Letter About Importance of Learning English
 
@@ -78,7 +78,7 @@ Your friend,
 Jahid
 ```
 
----
+
 
 ### e) Letter Thanking Friend for His Hospitality
 
@@ -97,7 +97,7 @@ Your grateful friend,
 Rana
 ```
 
----
+
 
 ### f) Letter Describing Prize Giving Ceremony
 
