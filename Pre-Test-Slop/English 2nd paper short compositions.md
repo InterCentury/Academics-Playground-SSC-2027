@@ -192,6 +192,3 @@ My favourite game is **cricket**. It is not just a sport but an emotion for mill
 11. Conclusion.
 ```
 
----
-
-Let me know if you need any changes or more compositions!
