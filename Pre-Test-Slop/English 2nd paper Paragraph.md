@@ -16,3 +16,18 @@ A **day labourer** is a person who works hard every day to earn money. He usuall
 
 **Tree plantation** means planting trees in different places. Trees are very important for our life and the environment. They give us **oxygen**, fruits, wood, medicine, and shade. Trees also help keep the environment clean by reducing **air pollution**. They prevent **soil erosion**, reduce floods, and help bring rainfall. Unfortunately, many trees are cut down every year for different purposes. As a result, the environment is becoming warmer, and climate change is increasing. To solve this problem, we should plant more trees in schools, roadsides, villages, and cities. The government and different organizations should encourage people to join tree plantation programs. Every student can also plant at least one tree every year. **Trees are our best friends**, and they are necessary for a healthy and beautiful environment. Therefore, everyone should take part in tree plantation.
 
+## 4. A Winter Morning
+
+A **winter morning** is calm, cold, and beautiful. In Bangladesh, winter usually comes after the rainy season. On a winter morning, the weather is very cold, and there is often **thick fog**. Sometimes the sun cannot be seen until late in the morning. People wear **warm clothes** like sweaters, jackets, and shawls to protect themselves from the cold. Poor people suffer because they do not have enough warm clothing. Children and old people stay close to fires to keep warm. Farmers begin their work after the fog disappears. Date juice and different kinds of **pitha** are popular during winter. Birds fly in the clear sky after sunrise, and everything looks fresh and peaceful. A winter morning is enjoyable for many people, although it creates difficulties for the poor. It is one of the most beautiful parts of the winter season.
+
+---
+
+## 5. A Rainy Day
+
+A **rainy day** is a day when it rains for a long time. It is common during the **rainy season** in Bangladesh. On such a day, the sky remains cloudy, and the sun is rarely seen. Roads become wet and muddy, making it difficult for people to travel. Students often go to school with **umbrellas** or raincoats. Farmers are happy because rain is very helpful for crops. Children also enjoy playing in the rain, although they may catch a cold. Sometimes heavy rain causes **waterlogging** and traffic problems in cities. Boats become an important means of transport in many rural areas. A rainy day brings freshness to nature. Trees and plants look green and healthy after rainfall. Although a rainy day causes some inconvenience, it is very important for agriculture and the environment. Therefore, rain is a blessing for our country.
+
+---
+
+## 6. A Tea Stall
+
+A **tea stall** is a small and popular shop where people drink tea and spend their free time. It is usually found near **markets**, bus stands, schools, offices, or village roads. A tea stall owner sells tea, coffee, biscuits, bread, cakes, bananas, and other light snacks. Many people visit a tea stall every day to relax, meet friends, or discuss current events. Some people also read newspapers while drinking tea. The tea stall becomes crowded in the morning and evening. It is an important meeting place for people from different professions. However, students should not waste too much time there because it may affect their studies. A tea stall also provides a small source of income for its owner. **It is an important part of daily life** in both villages and cities.
