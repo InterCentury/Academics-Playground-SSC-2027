@@ -4,6 +4,15 @@
 
 A **traffic jam** is a common problem in cities and towns. It happens when many vehicles stop moving because the roads are crowded. The main causes of traffic jams are **too many vehicles**, **narrow roads**, **illegal parking**, and **careless driving**. Sometimes people also break traffic rules, which makes the situation worse. During a traffic jam, students become late for school, office workers reach their workplaces late, and patients suffer on their way to hospitals. It also wastes **time**, **fuel**, and **money**. The noise and smoke from vehicles cause **air pollution** and **sound pollution**. To reduce traffic jams, the government should build **wider roads**, improve public transport, and enforce traffic laws strictly. People should also follow traffic rules and avoid unnecessary use of private cars. **Traffic jam is a serious problem**, and everyone should work together to solve it.
 
+```
+1. What is a traffic jam? 
+2. What are its causes? 
+3. What are its bad effects? 
+4. How can it be solved? 
+5. Conclusion.
+
+```
+
 ---
 
 ## 2. A Day Labourer
