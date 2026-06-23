@@ -34,6 +34,14 @@ A **day labourer** is a person who works hard every day to earn money. He usuall
 
 **Tree plantation** means planting trees in different places. Trees are very important for our life and the environment. They give us **oxygen**, fruits, wood, medicine, and shade. Trees also help keep the environment clean by reducing **air pollution**. They prevent **soil erosion**, reduce floods, and help bring rainfall. Unfortunately, many trees are cut down every year for different purposes. As a result, the environment is becoming warmer, and climate change is increasing. To solve this problem, we should plant more trees in schools, roadsides, villages, and cities. The government and different organizations should encourage people to join tree plantation programs. Every student can also plant at least one tree every year. **Trees are our best friends**, and they are necessary for a healthy and beautiful environment. Therefore, everyone should take part in tree plantation.
 
+```
+1. What is tree plantation? 
+2. Why are trees important? 
+3. What are the benefits of trees? 
+4. What happens if trees are cut down? 
+5. How can we encourage tree plantation? 
+6. Conclusion.
+```
 ## 4. A Winter Morning
 
 A **winter morning** is calm, cold, and beautiful. In Bangladesh, winter usually comes after the rainy season. On a winter morning, the weather is very cold, and there is often **thick fog**. Sometimes the sun cannot be seen until late in the morning. People wear **warm clothes** like sweaters, jackets, and shawls to protect themselves from the cold. Poor people suffer because they do not have enough warm clothing. Children and old people stay close to fires to keep warm. Farmers begin their work after the fog disappears. Date juice and different kinds of **pitha** are popular during winter. Birds fly in the clear sky after sunrise, and everything looks fresh and peaceful. A winter morning is enjoyable for many people, although it creates difficulties for the poor. It is one of the most beautiful parts of the winter season.
